@@ -345,7 +345,7 @@
                             <li class="accordion block">
                                 <div class="acc-btn ">
                                     <div class="icon-box"></div>
-                                    <h5> E- commerce</h5>
+                                    <h5> E-commerce</h5>
                                 </div>
                                 <div class="acc-content ">
                                     <p>Revolutionizing the fashion industry with innovative e-commerce platforms and data-driven insights.</p>
