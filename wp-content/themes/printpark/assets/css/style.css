@@ -1185,7 +1185,9 @@ img {
 .main-menu .navigation > li:first-child{
   margin-left: 0px !important;
 }
-
+.main-menu .navigation > li > a.active{
+  color: #D73439;
+}
 .main-menu .navigation > li > a{
   position:relative;
   display:block;

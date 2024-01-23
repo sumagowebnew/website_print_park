@@ -2,11 +2,16 @@
 
 /* template-color */
 
-.main-menu .navigation > li.current > a,
-.main-menu .navigation > li:hover > a{
-  color: #D73439 !important;
-}
+/* .main-menu .navigation > li.current > a, */
+/* .main-menu .navigation > li > a {
+  color:  #D73439;
+} */
 
+/* .main-menu .navigation > li:visited > a {
+  color: #D73439} */
+
+  /*code to change navbar tab color*/
+  */
 .header-top .info-list li a:hover{
 	color: #D73439;
 }

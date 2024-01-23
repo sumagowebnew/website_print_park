@@ -1941,7 +1941,7 @@
         </div>
     </section>
 
-    <section
+    <!-- <section
         class=" mt-5 elementor-section elementor-top-section elementor-element elementor-element-a5a687b elementor-section-full_width elementor-section-height-default elementor-section-height-default"
         data-id="a5a687b" data-element_type="section">
         <div class="elementor-container elementor-column-gap-default">
@@ -1988,31 +1988,31 @@
                                             <section class="project-style-two p-0 m-0">
                                                 <div class="two-item-carousel owl-carousel te-project owl-theme nav-style-one owl-dots-none"
                                                     data-owl-options='{
-        "loop": true,
-        "autoplay": true,
-        "margin": 30,
-        "nav": true,
-        "dots": false,
-        "smartSpeed": 500,
-        "autoplayTimeout": 2500,
-        "navText": ["<span class=\"flaticon-arrow-up\"></span>","<span class=\"flaticon-arrow-down\"></span>"],
-        "responsive": {
-            "0": {
-                "items": 1
-            },
-            "480": {
-                "items": 1
-            },
-            "600": {
-                "items": 1
-            },
-            "800": {
-                "items": 2
-            },
-            "1200": {
-                "items": 2                    }
-        }
-    }'>
+                                            "loop": true,
+                                            "autoplay": true,
+                                            "margin": 30,
+                                            "nav": true,
+                                            "dots": false,
+                                            "smartSpeed": 500,
+                                            "autoplayTimeout": 2500,
+                                            "navText": ["<span class=\"flaticon-arrow-up\"></span>","<span class=\"flaticon-arrow-down\"></span>"],
+                                            "responsive": {
+                                                "0": {
+                                                    "items": 1
+                                                },
+                                                "480": {
+                                                    "items": 1
+                                                },
+                                                "600": {
+                                                    "items": 1
+                                                },
+                                                "800": {
+                                                    "items": 2
+                                                },
+                                                "1200": {
+                                                    "items": 2                    }
+                                            }
+                                        }'>
 
                                                     <div class="project-block-two">
                                                         <div class="inner-box project-bg">
@@ -2169,7 +2169,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <section
                 class="elementor-section elementor-top-section elementor-element elementor-element-a466899 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                 data-id="a466899" data-element_type="section">

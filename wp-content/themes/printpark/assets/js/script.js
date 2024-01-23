@@ -332,13 +332,18 @@
 })(window.jQuery);
 
 
+// active navbar 
 
+    document.addEventListener("DOMContentLoaded", function () {
+        var url = window.location.href;
+        var navLinks = document.querySelectorAll(".navigation a");
 
-
-
-
-
-
+        navLinks.forEach(function (link) {
+            if (url.includes(link.getAttribute("href"))) {
+                link.classList.add("active");
+            }
+        });
+    });
 
 
 

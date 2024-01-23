@@ -815,9 +815,9 @@
                                 </div>
                                 <nav class="main-menu navbar-expand-md navbar-light">
                                     <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
-                                        <ul class="navigation clearfix">
+                                        <ul class="navigation clearfix navbar-nav1">
                                             <li id="menu-item-54"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-54 dropdown current">
+                                                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-54 dropdown menu-item <?php echo ($currentPage == 'index.php') ? 'active' : ''; ?>">
                                                 <a title="Home" href="index.php"
                                                     data-toggle="dropdown1" class="hvr-underline-from-left1"
                                                     aria-expanded="false" data-scroll
@@ -842,7 +842,7 @@
                                                 class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-54 dropdown">
                                                 <a title="Our Solutions" href="Web_Development.php"
                                                     data-toggle="dropdown1" class="hvr-underline-from-left1"
-                                                    aria-expanded="false" data-scroll
+                                                    aria-expanded="false" data-scroll 
                                                     data-options="easing: easeOutQuart">Our Solutions</a>
                                                 <!-- <ul role="menu" class="submenu">
                                                     <li id="menu-item-64"
@@ -861,13 +861,13 @@
                                                 </ul> -->
                                             </li>
                                           
-                                            <li id="menu-item-79"
+                                            <!-- <li id="menu-item-79"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-79 dropdown">
-                                                <a title="" href="Insights.php" data-toggle="dropdown1"
+                                                <a title="" href="Insights.php" data-toggle="dropdown1" onclick="changeTabColor('insight')"
                                                     class="hvr-underline-from-left1" aria-expanded="false" data-scroll
                                                     data-options="easing: easeOutQuart">Insights</a>
                                                 
-                                            </li>
+                                            </li> -->
                                          
                                             <li id="menu-item-82"
                                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-82 dropdown">
