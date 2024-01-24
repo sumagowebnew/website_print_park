@@ -801,7 +801,7 @@
                                 <figure class="logo">
                                     <a href="./index.php" title="WordPress Printing">
                                     <!-- <div id="shapeimg" ></div> -->
-                                    <img id="shapeimg" src="./wp-content/uploads/2023/08/sumag.png" alt=""></a>
+                                    <img id="shapeimg" src="./wp-content/uploads/2023/08/Logo1 3.png" alt=""></a>
                                 </figure>
 
                             </div>

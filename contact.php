@@ -175,7 +175,7 @@
                                                                         <ul></ul>
                                                                     </div>
                                                                     <form
-                                                                        action="/wordpress-Project/wordpress/contact/?simply_static_page=2321#wpcf7-f1246-p32-o1"
+                                                                        action=""
                                                                         method="post" class="wpcf7-form init"
                                                                         aria-label="Contact form"
                                                                         novalidate="novalidate" data-status="init">
@@ -208,7 +208,7 @@
                                                                                             aria-invalid="false"
                                                                                             placeholder="Name*" value=""
                                                                                             type="text"
-                                                                                            name="text-6"></span>
+                                                                                            name="name"></span>
                                                                                 </p>
                                                                             </div>
                                                                             <div
@@ -226,7 +226,7 @@
                                                                                             aria-invalid="false"
                                                                                             placeholder="Email*"
                                                                                             value="" type="email"
-                                                                                            name="email-115"></span>
+                                                                                            name="email"></span>
                                                                                 </p>
                                                                             </div>
                                                                             <div
@@ -243,7 +243,7 @@
                                                                                             aria-invalid="false"
                                                                                             placeholder="Phone*"
                                                                                             value="" type="text"
-                                                                                            name="text-7"></span>
+                                                                                            name="phone"></span>
                                                                                 </p>
                                                                             </div>
                                                                             <div
@@ -260,7 +260,7 @@
                                                                                             aria-invalid="false"
                                                                                             placeholder="Website"
                                                                                             value="" type="text"
-                                                                                            name="text-8"></span>
+                                                                                            name="website"></span>
                                                                                 </p>
                                                                             </div>
                                                                             <div
@@ -277,14 +277,14 @@
                                                                                             aria-required="true"
                                                                                             aria-invalid="false"
                                                                                             placeholder="Your Message..."
-                                                                                            name="textarea-929"></textarea></span>
+                                                                                            name="message"></textarea></span>
                                                                                 </p>
                                                                             </div>
                                                                             <div
                                                                                 class="col-lg-12 col-md-12 col-sm-12 form-group message-btn centred">
                                                                                 <p><button class="theme-btn btn-one"
                                                                                         type="submit"
-                                                                                        name="submit-form"><span>Send
+                                                                                        name="submit"><span>Send
                                                                                             Your Message</span></button>
                                                                                 </p>
                                                                             </div>
@@ -292,6 +292,7 @@
                                                                         <div class="wpcf7-response-output"
                                                                             aria-hidden="true"></div>
                                                                     </form>
+                                                                    <h3><?php include "send_email.php"?></h3>
                                                                 </div>
                                                             </div>
                                                         </div>
