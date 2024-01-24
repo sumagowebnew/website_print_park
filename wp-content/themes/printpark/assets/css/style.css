@@ -181,7 +181,7 @@ p{
 
 h1,h2,h3,h4,h5,h6{
   position:relative;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 400;
   color: #0c0c0c;
   margin: 0px;
@@ -250,7 +250,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .handle-preloader .animation-preloader .txt-loading .letters-loading{
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 500;
   letter-spacing: 15px;
   display: inline-block;
@@ -367,7 +367,7 @@ img {
   font-size: 14px;
   line-height: 26px;
   font-weight: 800;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   text-align: center;
   padding: 14px 30px;
   text-transform: uppercase;
@@ -428,7 +428,7 @@ img {
   height: 52px;
   width: 52px;
   line-height: 52px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   text-align: center;
   color: #0c0c0c;
   border: 1px dashed #e0dad9;
@@ -898,7 +898,7 @@ img {
   height: 20px;
   line-height: 20px;
   font-size: 14px;
-  font-family: 'Urbanist', sans-serif;
+  font-family: 'Outfit', sans-serif;
   color: #fff;
   font-weight: 700;
   border-radius: 50%;
@@ -1196,7 +1196,7 @@ img {
   line-height:30px;
   padding: 10px 0px 30px 0px;
   font-weight:800;
-  font-family: 'Urbanist', sans-serif;
+  font-family: 'Outfit', sans-serif;
   opacity:1;
   color: #0c0c0c;
   z-index:1;
@@ -2032,7 +2032,7 @@ div#mCSB_1_container{
   content: 'prev';
   font-size: 14px;
   line-height: 56px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   font-weight: 800;
   text-transform: uppercase;
@@ -2047,7 +2047,7 @@ div#mCSB_1_container{
   content: 'next';
   font-size: 14px;
   line-height: 56px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   font-weight: 800;
   text-transform: uppercase;
@@ -2207,7 +2207,7 @@ div#mCSB_1_container{
   right: -125px;
   font-size: 110px;
   line-height: 100px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #fff;
   font-weight: 900;
   text-transform: uppercase;
@@ -2235,7 +2235,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 48px;
   line-height: 50px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 700;
   color: #8B8B8B ;
   margin-bottom: 2px;
@@ -2429,7 +2429,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 16px;
   line-height: 26px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   font-weight: 800;
   padding: 12px 20px;
@@ -2615,7 +2615,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   font-weight: 800;
   text-transform: uppercase;
@@ -2846,7 +2846,7 @@ div#mCSB_1_container{
   padding-right: 41px;
   font-size: 20px;
   line-height: 34px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 600;
   color: #afa7a7;
   cursor: pointer;
@@ -3089,7 +3089,7 @@ div#mCSB_1_container{
   text-align: left;
   font-size: 18px;
   line-height: 30px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #afa7a7;
   font-weight: 700;
   cursor: pointer;
@@ -3139,7 +3139,7 @@ div#mCSB_1_container{
   text-align: right;
   font-size: 16px;
   line-height: 16px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 700;
   margin-bottom: 0px;
 }
@@ -3415,7 +3415,7 @@ div#mCSB_1_container{
   height: 50px;
   line-height: 50px;
   font-size: 20px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #fff;
   font-weight: 700;
   border: 1px solid #fb991a;
@@ -3569,7 +3569,7 @@ div#mCSB_1_container{
   padding-left: 21px;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #7b7675;
   font-weight: 700;
   text-transform: uppercase;
@@ -3754,7 +3754,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 800;
   color: #0c0c0c;
   text-transform: uppercase;
@@ -3850,7 +3850,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 800;
   color: #0c0c0c;
   text-transform: uppercase;
@@ -3915,7 +3915,7 @@ div#mCSB_1_container{
   display: block;
   font-size: 16px;
   line-height: 42px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   font-weight: 700;
 }
@@ -5174,7 +5174,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 800;
   color: #0c0c0c;
   text-transform: uppercase;
@@ -5234,7 +5234,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 14px;
   line-height: 46px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   font-weight: 800;
   text-transform: uppercase;
@@ -5457,7 +5457,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 800;
   color: #fff;
   text-transform: uppercase;
@@ -6014,7 +6014,7 @@ div#mCSB_1_container{
   height: 50px;
   line-height: 50px;
   font-size: 20px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #fff;
   font-weight: 700;
   border: 1px solid #fb991a;
@@ -6310,7 +6310,7 @@ div#mCSB_1_container{
   background: #0c0c0c;
   font-size: 16px;
   line-height: 22px;
-      font-family:'Urbanist', sans-serif;
+      font-family:'Outfit', sans-serif;
   color: #fff;
   font-weight: 700;
   text-align: center;
@@ -6355,7 +6355,7 @@ div#mCSB_1_container{
   margin-right: 10px;
   font-size: 18px;
   line-height: 28px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   font-weight: 700;
   border: 1px dashed #d8d2d0;
@@ -6516,7 +6516,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #fff;
   font-weight: 800;
   text-transform: uppercase;
@@ -6892,7 +6892,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 14px;
   line-height: 46px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   font-weight: 800;
   text-transform: uppercase;
@@ -7835,7 +7835,7 @@ div#mCSB_1_container{
   height: 50px;
   line-height: 50px;
   font-size: 20px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   font-weight: 700;
   border: 1px solid #fb991a;
@@ -7927,7 +7927,7 @@ div#mCSB_1_container{
   font-size: 16px;
   color: #afa7a7;
   font-weight: 800;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
 }
 
 .testimonial-style-three .owl-dots:before{
@@ -7952,7 +7952,7 @@ div#mCSB_1_container{
   counter-increment: slides-num;
   font-size: 24px;
   font-weight: 800;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
 }
 
 .testimonial-style-three .owl-dots button.active:before{
@@ -8051,7 +8051,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #7b7675;
   font-weight: 700;
   text-transform: uppercase;
@@ -8793,7 +8793,7 @@ div#mCSB_1_container{
   display: block;
   font-size: 18px;
   line-height: 28px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #afa7a7;
   font-weight: 700;
 }
@@ -9412,7 +9412,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 800;
   text-transform: uppercase;
   color: #0c0c0c;
@@ -9446,7 +9446,7 @@ div#mCSB_1_container{
 .range-slider .title:before {
   position: absolute;
   content: '$';
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   left: 1px;
   top: 3px;
   font-size: 16px;
@@ -9470,7 +9470,7 @@ div#mCSB_1_container{
   background:none;
   font-size: 16px;
   line-height: 28px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   font-weight: 700;
   text-align:right;
@@ -9533,7 +9533,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 800;
   text-transform: uppercase;
   padding-bottom: 0px;
@@ -9624,7 +9624,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 17px;
   line-height: 28px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 600;
   color: #7b7675;
   background: #faf1ef;
@@ -9885,7 +9885,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #fff;
   font-weight: 800;
   text-transform: uppercase;
@@ -10044,7 +10044,7 @@ div#mCSB_1_container{
   width: 100%;
   font-size: 18px;
   line-height: 28px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   font-weight: 700;
   border: 1px dashed #d8d2d0;
@@ -10264,7 +10264,7 @@ div#mCSB_1_container{
   padding:21px 28px 19px 40px;
   font-weight:700;
   font-size:18px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   border-right:1px solid #eee6e5;
   text-align: center;
@@ -10322,7 +10322,7 @@ div#mCSB_1_container{
 
 .cart-table tbody tr .sub-total{
   font-size: 18px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 700;
   color: #0c0c0c;
 }
@@ -10352,7 +10352,7 @@ div#mCSB_1_container{
 
 .cart-table tbody tr .total-price{
   font-size: 18px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 700;
 }
 
@@ -10380,7 +10380,7 @@ div#mCSB_1_container{
   text-align: center;
   padding: 10px 10px;
   font-size: 18px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 700;
   color: #0c0c0c;
   border-radius: 50%;
@@ -10656,7 +10656,7 @@ div#mCSB_1_container{
   display: block;
   font-size: 16px;
   line-height: 26px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 600;
   color: #0c0c0c;
   margin-bottom: 6px;
@@ -10726,7 +10726,7 @@ div#mCSB_1_container{
   display: block;
   font-size: 16px;
   line-height: 26px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 700;
   color: #0c0c0c;
   margin-bottom: 13px;
@@ -10788,7 +10788,7 @@ div#mCSB_1_container{
   font-size: 16px;
   line-height: 20px;
   font-weight: 700;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   transition: all 500ms ease;
 }
@@ -10841,7 +10841,7 @@ div#mCSB_1_container{
 /** blog-grid **/
 
 .blog-grid{
-  padding: 20px 0px;
+  padding: 0px 0px;
 }
 
 .blog-grid .news-block-one .inner-box{
@@ -10927,7 +10927,7 @@ div#mCSB_1_container{
   font-size: 24px;
   line-height: 32px;
   font-weight: 700;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
 }
 
@@ -10999,7 +10999,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 800;
   text-transform: uppercase;
   color: #0c0c0c;
@@ -11108,7 +11108,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 17px;
   line-height: 28px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 600;
   color: #7b7675;
   background: #faf1ef;
@@ -11234,7 +11234,7 @@ div#mCSB_1_container{
   padding-left: 21px;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #7b7675;
   font-weight: 700;
   text-transform: uppercase;
@@ -11317,7 +11317,7 @@ div#mCSB_1_container{
   height: 40px;
   line-height: 40px;
   font-size: 30px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #fff;
   font-weight: 700;
   text-align: center;
@@ -11502,7 +11502,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 20px;
   line-height: 28px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   font-weight: 700;
 }
@@ -11539,7 +11539,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 17px;
   line-height: 28px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 600;
   color: #7b7675;
   background: #faf1ef;
@@ -11786,7 +11786,7 @@ div#mCSB_1_container{
   width: 100%;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   font-weight: 800;
   text-transform: uppercase;
@@ -11873,7 +11873,7 @@ div#mCSB_1_container{
   align-items:center;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   font-weight: 800;
   text-transform: uppercase;
@@ -12243,7 +12243,7 @@ div#mCSB_1_container{
   display: block;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #fff;
   font-weight: 800;
   text-transform: uppercase;
@@ -12297,7 +12297,7 @@ div#mCSB_1_container{
   font-size: 16px;
   color: #afa7a7;
   font-weight: 800;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
 }
 
 .team-style-two .owl-dots:before{
@@ -12322,7 +12322,7 @@ div#mCSB_1_container{
   counter-increment: slides-num;
   font-size: 24px;
   font-weight: 800;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
 }
 
 .team-style-two .owl-dots button.active:before{
@@ -12567,7 +12567,7 @@ div#mCSB_1_container{
   right: 47px;
   font-size: 100px;
   line-height: 100px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 800;
   z-index: 1;
   color: transparent;
@@ -12687,7 +12687,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 18px;
   line-height: 28px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #0c0c0c;
   font-weight: 700;
   border: 1px dashed #d8d2d0;
@@ -12931,7 +12931,7 @@ div#mCSB_1_container{
   top: 1px;
   font-size: 18px;
   line-height: 28px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #afa7a7;
   font-weight: 800;
 }
@@ -13108,7 +13108,7 @@ div#mCSB_1_container{
   right: 6px;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #fff;
   font-weight: 800;
   text-transform: uppercase;
@@ -13396,7 +13396,7 @@ div#mCSB_1_container{
   display: block;
   font-size: 120px;
   line-height: 120px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 700;
   color: #0c0c0c;
   margin-bottom: 3px;
@@ -13662,7 +13662,7 @@ div#mCSB_1_container{
   right: 0px;
   font-size: 200px;
   line-height: 170px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 700;
   color: transparent;
   -webkit-text-stroke-width: 1px;
@@ -13946,7 +13946,7 @@ color: #6A515E;
 .card__tagline {
 display: block;
 margin: 1em 0;
-    font-family: 'Urbanist', sans-serif;  
+    font-family: 'Outfit', sans-serif;  
 font-size: .8em; 
 color: #D7BDCA;  
 }
@@ -13960,7 +13960,7 @@ color: #D7BDCA;
 padding: 0 2em 2em;
 margin: 0;
 color: #D7BDCA;
-    font-family: 'Urbanist', sans-serif; 
+    font-family: 'Outfit', sans-serif; 
 display: -webkit-box;
 -webkit-box-orient: vertical;
 -webkit-line-clamp: 3;

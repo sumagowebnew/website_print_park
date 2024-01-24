@@ -64,9 +64,9 @@
                                                 <!-- <p class="te-text">It is a long established fact that a reader
                                                             will be <br>distracted by the readable.</p> -->
                                                 <div class="btn-box">
-                                                    <a href=""
+                                                    <!-- <a href=""
                                                         class="theme-btn btn-one printpark-btn1">Start Your
-                                                        Project</a>
+                                                        Project</a> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -85,9 +85,9 @@
                                                 <!-- <p class="te-text">Except to obtain some advantage from it but
                                                             who <br>has any right to find fault with a man.</p> -->
                                                 <div class="btn-box">
-                                                    <a href=""
+                                                    <!-- <a href=""
                                                         class="theme-btn btn-one printpark-btn1">Start Your
-                                                        Project</a>
+                                                        Project</a> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -106,9 +106,9 @@
                                                 <!-- <p class="te-text">It is a long established fact that a reader
                                                             will be <br>distracted by the readable.</p> -->
                                                 <div class="btn-box">
-                                                    <a href=""
+                                                    <!-- <a href=""
                                                         class="theme-btn btn-one printpark-btn1">Start Your
-                                                        Project</a>
+                                                        Project</a> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -127,9 +127,9 @@
                                                 <!-- <p class="te-text">It is a long established fact that a reader
                                                             will be <br>distracted by the readable.</p> -->
                                                 <div class="btn-box">
-                                                    <a href=""
+                                                    <!-- <a href=""
                                                         class="theme-btn btn-one printpark-btn1">Start Your
-                                                        Project</a>
+                                                        Project</a> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -149,9 +149,9 @@
                                                 <!-- <p class="te-text">It is a long established fact that a reader
                                                             will be <br>distracted by the readable.</p> -->
                                                 <div class="btn-box">
-                                                    <a href=""
+                                                    <!-- <a href=""
                                                         class="theme-btn btn-one printpark-btn1">Start Your
-                                                        Project</a>
+                                                        Project</a> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -391,7 +391,7 @@
                                             <div class="inner-box te-blog">
                                                 <div class="image-box">
                                                     <figure class="image"><a
-                                                            href="./2023/08/22/how-do-you-know-if-your-product-has-hail-damage/index.php"><img
+                                                            href="#"><img
                                                                 loading="lazy" decoding="async" width="350" height="240"
                                                                 src="./wp-content/uploads/2023/08/question/bug.jpg"
                                                                 class="attachment-printpark_350x270 size-printpark_350x270 wp-post-image"
@@ -416,7 +416,7 @@
                                             <div class="inner-box te-blog">
                                                 <div class="image-box">
                                                     <figure class="image"><a
-                                                            href="./2023/08/22/protecting-goods-to-foster-local-solutions-to-global/index.php"><img
+                                                            href="#"><img
                                                                 loading="lazy" decoding="async" width="350" height="240"
                                                                 src="./wp-content/uploads/2023/08/question/l certifications1.jpg"
                                                                 class="attachment-printpark_350x270 size-printpark_350x270 wp-post-image"
@@ -426,7 +426,7 @@
                                                 <div class="lower-content">
                                                     <h3 class="te-title">
                                                         <a
-                                                            href="./2023/08/22/protecting-goods-to-foster-local-solutions-to-global/index.php">Is
+                                                            href="#">Is
                                                             the loading speed of your website fast? </a>
                                                     </h3>
                                                    
@@ -440,7 +440,7 @@
                                             <div class="inner-box te-blog">
                                                 <div class="image-box">
                                                     <figure class="image"><a
-                                                            href="./2023/08/22/equitable-voting-is-a-must-for-a-better-future/index.php"><img
+                                                            href="#"><img
                                                                 loading="lazy" decoding="async" width="350" height="240"
                                                                 src="./wp-content/uploads/2023/08/question/responsive.jpg"
                                                                 class="attachment-printpark_350x270 size-printpark_350x270 wp-post-image"
@@ -450,7 +450,7 @@
                                                 <div class="lower-content">
                                                     <h3 class="te-title">
                                                         <a
-                                                            href="./2023/08/22/equitable-voting-is-a-must-for-a-better-future/index.php">Is
+                                                            href="#">Is
                                                             your website’s UI responsive?</a>
                                                     </h3>
                                                   
@@ -464,7 +464,7 @@
                                             <div class="inner-box te-blog">
                                                 <div class="image-box">
                                                     <figure class="image"><a
-                                                            href="./2023/08/22/equitable-voting-is-a-must-for-a-better-future/index.php"><img
+                                                            href="#"><img
                                                                 loading="lazy" decoding="async" width="350" height="240"
                                                                 src="./wp-content/uploads/2023/08/question/l certifications1.jpg
                                                                                         "
@@ -475,7 +475,7 @@
                                                 <div class="lower-content">
                                                     <h3 class="te-title">
                                                         <a
-                                                            href="./2023/08/22/equitable-voting-is-a-must-for-a-better-future/index.php">Do
+                                                            href="#">Do
                                                             you have a valid SSL certificate?</a>
                                                     </h3>
                                                    
@@ -554,7 +554,7 @@
                                                 <div class="inner-box town-funfact-section">
                                                     <div class="count-outer count-box">
                                                         <span class="count-text te-count" data-speed="1500"
-                                                            data-stop="500">0</span>
+                                                            data-stop="500">780</span>
                                                     </div>
                                                     <p class="te-text">Satisfied clients</p>
                                                     <div class="icon-box te-icon">
@@ -575,7 +575,7 @@
                                                 <div class="inner-box town-funfact-section">
                                                     <div class="count-outer count-box">
                                                         <span class="count-text te-count" data-speed="1500"
-                                                            data-stop="300">0</span>
+                                                            data-stop="300">1850</span>
                                                     </div>
                                                     <p class="te-text">Projects done</p>
                                                     <div class="icon-box te-icon">
@@ -601,7 +601,7 @@
                                                 <div class="inner-box town-funfact-section">
                                                     <div class="count-outer count-box">
                                                         <span class="count-text te-count" data-speed="1500"
-                                                            data-stop="500">0</span><span
+                                                            data-stop="500">700</span><span
                                                             class="symble te-symble"></span>
                                                     </div>
                                                     <p class="te-text">Cups of Coffee</p>
@@ -628,7 +628,7 @@
                                                 <div class="inner-box town-funfact-section">
                                                     <div class="count-outer count-box">
                                                         <span class="count-text te-count" data-speed="1500"
-                                                            data-stop="500">0</span><span
+                                                            data-stop="500">75</span><span
                                                             class="symble te-symble"></span>
                                                     </div>
                                                     <p class="te-text">Awards won</p>
@@ -708,7 +708,7 @@
 
 
                             <div class="yt-btn">
-                                <a href="" class="theme-btn btn-one printpark-btn">More
+                                <a href="about.php" class="theme-btn btn-one printpark-btn">More
                                     About Us</a>
                             </div>
 
@@ -1048,8 +1048,8 @@
 
 
                                             <div class="yt-btn">
-                                                <a href=""
-                                                    class="theme-btn btn-one printpark-btn">More Categories</a>
+                                                <!-- <a href=""
+                                                    class="theme-btn btn-one printpark-btn">More Categories</a> -->
                                             </div>
 
                                         </div>
@@ -3610,7 +3610,7 @@
 
 
                             <div class="yt-btn">
-                                <a href="" class="theme-btn btn-one printpark-btn">More
+                                <a href="about.php" class="theme-btn btn-one printpark-btn">More
                                     About Us</a>
                             </div>
 

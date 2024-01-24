@@ -1256,6 +1256,28 @@
                                                             </div>
                                                     </div>
 
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/satush_aurange-removebg-preview.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Satish Aurange</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Satish Aurange</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">CHIEF TECHNOLOGY OFFICER</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+
                                                      <div class="col-lg-3 col-md-6 col-sm-12 team-block">
                                                     <div class="team-block-two">
                                                                 <div class="inner-box te-team">
@@ -1277,28 +1299,7 @@
                                                                 </div>
                                                             </div>
                                                     </div>
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/DIPTI-removebg-preview.png   "
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Dipti Pawar</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Dipti Pawar</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">BUSINESS ANALYST</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
-
+                                                    
                                                     <div class="col-lg-3 col-md-6 col-sm-12 team-block">
                                                     <div class="team-block-two">
                                                                 <div class="inner-box te-team">
@@ -1342,27 +1343,7 @@
                                                                 </div>
                                                             </div>
                                                     </div>
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/satush_aurange-removebg-preview.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Satish Aurange</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Satish Aurange</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">CHIEF TECHNOLOGY OFFICER</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
+                                                    
 
                                                     <div class="col-lg-3 col-md-6 col-sm-12 team-block">
                                                     <div class="team-block-two">
@@ -1406,6 +1387,30 @@
                                                                 </div>
                                                             </div>
                                                     </div>
+
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/DIPTI-removebg-preview.png   "
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Dipti Pawar</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Dipti Pawar</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">BUSINESS ANALYST</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+
+
                                                     <div class="col-lg-3 col-md-6 col-sm-12 team-block">
                                                     <div class="team-block-two">
                                                                 <div class="inner-box te-team">

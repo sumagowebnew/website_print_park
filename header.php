@@ -740,7 +740,7 @@
                         <br>
                         <ul>
                            <li>
-                               <a href="tel:+91 902 828 8668"><strong>+91 902 828 8668,</strong></a>
+                               <a href="tel:+91 902 828 8668"><h6>+91 902 828 8668,</h6></a>
                                <a href="tel:+91 840 808 4888"><strong>+91 840 808 4888</strong></a>
                             </li>
                         </ul>
@@ -942,7 +942,7 @@
                         </div>
                         <div class="menu-right-content">
                         <div class="btn-box">
-                                <a href="https://wp1.themevibrant.com/newwp/printpark/contact/"
+                                <a href="contact.php"
                                     class="theme-btn btn-one">Get a Quote</a>
                             </div>
                             </div>

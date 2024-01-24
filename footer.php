@@ -4,7 +4,7 @@
        
         <div class="widget-section me-5 ms-5">
             <div class="row clearfix">
-                <div class="col-lg-3 col-md-6 col-sm-12 footer-column p">
+                <!-- <div class="col-lg-3 col-md-6 col-sm-12 footer-column p">
                     <div id="printpark_newsletter-1"
                         class="footer-widget single-footer-widget widget_printpark_newsletter">
                         <div class="newsletter-widget">
@@ -30,7 +30,6 @@
                                                 }
                                             }
                                         })();</script>
-                                    <!-- Mailchimp for WordPress v4.9.10 - https://wordpress.org/plugins/mailchimp-for-wp/ -->
                                     <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-774" method="post"
                                         data-id="774" data-name="">
                                         <div class="mc4wp-form-fields">
@@ -48,14 +47,13 @@
                                             name="_mc4wp_form_element_id" value="mc4wp-form-1">
                                         <div class="mc4wp-response"></div>
                                     </form>
-                                    <!-- / Mailchimp for WordPress Plugin -->
                                 </div>
                                 <div class="text">Never spam &amp; Never share...</div>
                             </div>
                         </div>
 
                     </div>
-                </div>
+                </div> -->
                 <div class="col-lg-2 col-md-6 col-sm-12 footer-column">
                     <div id="nav_menu-1" class="footer-widget single-footer-widget widget_nav_menu">
                         <div class="widget-title">
@@ -90,7 +88,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
+                <div class="col-lg-5 col-md-6 col-sm-12 footer-column">
                     <div id="nav_menu-2" class="footer-widget single-footer-widget widget_nav_menu">
                         <div class="widget-title">
                             <h3>Service</h3>
@@ -153,7 +151,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 footer-column">
+                <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
                     <div id="printpark_promotion-1"
                         class="footer-widget single-footer-widget widget_printpark_promotion">
                         <div class="promotion-widget">

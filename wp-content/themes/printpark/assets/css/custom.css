@@ -156,7 +156,7 @@
   display: block;
   font-size: 18px;
   line-height: 28px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   color: #afa7a7;
   font-weight: 700;
 }
@@ -211,7 +211,7 @@
   border-bottom: 1px dashed #dcd5d4;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 800;
   /* text-transform: uppercase; */
   color: #0c0c0c;
@@ -241,7 +241,7 @@
   display: inline-block;
   font-size: 14px;
   line-height: 24px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 800;
   /* text-transform: uppercase; */
   color: #0c0c0c;
@@ -262,7 +262,7 @@
   display: inline-block;
   font-size: 17px !important;
   line-height: 28px;
-      font-family: 'Urbanist', sans-serif;
+      font-family: 'Outfit', sans-serif;
   font-weight: 600;
   color: #7b7675;
   background: #faf1ef;
