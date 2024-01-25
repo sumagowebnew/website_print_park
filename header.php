@@ -509,9 +509,12 @@
         href="./wp-content/themes/printpark/assets/css/woocommerce.css?ver=6.4.1" type="text/css" media="all">
     <link rel="stylesheet" id="printpark-responsive-css"
         href="./wp-content/themes/printpark/assets/css/responsive.css?ver=6.4.1" type="text/css" media="all">
-    <link rel="stylesheet" id="printpark-theme-fonts-css"
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <!-- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> -->
+        <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400&display=swap" rel="stylesheet">
+    <!-- <link rel="stylesheet" id="printpark-theme-fonts-css"
         href="http://fonts.googleapis.com/css?family=Urbanist%3Awght%40300%2C400%2C500%2C600%2C700%2C800%2C900%26display%3Dswap%7COutfit%3Awght%40300%2C400%2C500%2C600%2C700%2C800%2C900%26display%3Dswap&#038;subset=latin%2Clatin-ext"
-        type="text/css" media="all">
+        type="text/css" media="all"> -->
     <link rel="stylesheet" id="elementor-icons-css"
         href="./wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0" type="text/css"
         media="all">
@@ -670,7 +673,7 @@
                             <div class="content-inner">
                                 <div class="logo1">
                                     <a href="./index.php" title="WordPress Printing"><img
-                                            src="./wp-content/uploads/2023/08/logo.png" alt="logo"></a>
+                                            src="./wp-content/uploads/2023/08/SUMAGO Logo (2) (1).png" alt="logo"></a>
                                 </div>
                                 <div class="content-box">
                                     <h4>About Us</h4>
@@ -734,22 +737,22 @@
                                 Sample</a>
                         </li> -->
                    <!-- </ul>-->
-                    <div class="text col-sm-12 col-md-3">
+                    <div class="text col-sm-12 col-md-4 col-lg-4">
                         <p><i class="flaticon-incoming-call"></i><span>Call Us</span> <strong>Now:</strong>
             
                         <br>
                         <ul>
                            <li>
-                               <a href="tel:+91 902 828 8668"><h6>+91 902 828 8668,</h6></a>
+                               <a href="tel:+91 902 828 8668"><strong>+91 902 828 8668,</strong></a>
                                <a href="tel:+91 840 808 4888"><strong>+91 840 808 4888</strong></a>
                             </li>
                         </ul>
                         </p>
                     </div>
-                    <div class="col-sm-12 col-md-6 d-grid justify-content-center ">
-                        <figure class="logo"><a href="./index.php" title="WordPress Printing"><img style="height: 60px; width:450px" src="./wp-content/uploads/2023/08/sumago.png" alt="logo"></a>
+                    <div class="col-sm-12 col-md-5 col-lg-5 d-grid justify-content-center ">
+                        <figure class="logo"><a href="./index.php" title="WordPress Printing"><img style="height: 60px; width:450px" src="./wp-content/uploads/2023/08/SUMAGO Logo (2) (1).png" alt="logo"></a>
                     </div>
-                     <div class="text col-sm-12 col-md-3">
+                     <div class="text col-sm-12 col-md-3 col-lg-3">
                         <ul class="info-list">
                             <li>
                                 <i><img src="./wp-content/themes/printpark/assets/images/shape/email.png" width="20px" height="20px" style="margin-top:-8px"></i><a
@@ -817,7 +820,7 @@
                                     <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                         <ul class="navigation clearfix navbar-nav1">
                                             <li id="menu-item-54"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-54 dropdown menu-item <?php echo ($currentPage == 'index.php') ? 'active' : ''; ?>">
+                                                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-54  menu-item <?php echo ($currentPage == 'index.php') ? 'active' : ''; ?>">
                                                 <a title="Home" href="index.php"
                                                     data-toggle="dropdown1" class="hvr-underline-from-left1"
                                                     aria-expanded="false" data-scroll
@@ -839,7 +842,7 @@
                                                 </ul> -->
                                             </li>
                                             <li id="menu-item-54"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-54 dropdown">
+                                                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-54">
                                                 <a title="Our Solutions" href="Web_Development.php"
                                                     data-toggle="dropdown1" class="hvr-underline-from-left1"
                                                     aria-expanded="false" data-scroll 
@@ -870,8 +873,8 @@
                                             </li> -->
                                          
                                             <li id="menu-item-82"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-82 dropdown">
-                                                <a title="Blog" href="career.php" data-toggle="dropdown1"
+                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-82">
+                                                <a title="Career" href="career.php" data-toggle="dropdown1"
                                                     class="hvr-underline-from-left1" aria-expanded="false" data-scroll
                                                     data-options="easing: easeOutQuart">Career</a>
                                                 <!-- <ul role="menu" class="submenu">
@@ -898,8 +901,8 @@
                                                 </ul> -->
                                             </li>
                                             <li id="menu-item-81"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-81 dropdown">
-                                                <a title="Shop" href="about.php" data-toggle="dropdown1"
+                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-81">
+                                                <a title="About" href="about.php" data-toggle="dropdown1"
                                                     class="hvr-underline-from-left1" aria-expanded="false" data-scroll
                                                     data-options="easing: easeOutQuart">About us</a>
                                                 <!-- <ul role="menu" class="submenu">
@@ -978,7 +981,7 @@
                         <div class="left-column">
                             <div class="logo-box">
                                 <figure class="logo"><a href="./index.php" title="WordPress Printing">
-                                    <img style="height: 40px; width:230px" src="./wp-content/uploads/2023/08/sumago.png" alt="logo"></figure>
+                                    <img style="height: 40px; width:300px" src="./wp-content/uploads/2023/08/sumago.png" alt="logo"></figure>
                             </div>
                             <div class="menu-area clearfix">
                                 <nav class="main-menu clearfix">

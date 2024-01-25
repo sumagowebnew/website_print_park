@@ -113,8 +113,84 @@
                                             src="./wp-content/uploads/2023/08/laptop.png"
                                             alt="Awesome Image"></figure>
                                 </div>
-                                <a href="https://wp1.themevibrant.com/newwp/printpark/contact/"
-                                    class="theme-btn btn-two">GET A QUOTE</a>
+                             <button type="button"  class="theme-btn btn-two" data-bs-toggle="modal" data-bs-target="#exampleModal">
+GET A QUOTE
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+  <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title">GET A QUOTE</h4>
+          <button type="button" class="close" data-dismiss="modal">×</button>
+        </div>
+        <div class="modal-body">
+            <form method="post" name="myForm" onsubmit="return quoteRequest();">
+                <div style="    text-align: left;" class="form-group">
+                    <label>Name :</label>
+                    <input class="form-control" type="text" name="fname" oninput="this.value = this.value.replace(/[^a-zA-Z\s]/g, '').replace(/(\..*)\./g, '$1');" placeholder="Name" required="">
+                </div>          
+                <div  style="    text-align: left;" class="form-group">
+                    <label>Contact :</label>
+                    <input class="form-control" type="tel" name="contact" oninput="this.value = this.value.replace(/[^0-9]/g, '').replace(/(\..*)\./g, '$1');" maxlength="10" minlength="10" pattern="[7-9]{1}[0-9]{9}" placeholder="Mobile no" required="">
+                </div>
+                <div  style="    text-align: left;" class="form-group">
+                    <label>Email :</label>
+                    <input class="form-control" type="email" name="email" pattern="^(([-\w\d]+)(\.[-\w\d]+)@([-\w\d]+)(\.[-\w\d]+)(\.([a-zA-Z]{2,5}|[\d]{1,3})){1,2})$" placeholder="Email" required="">
+                </div>
+                <div  style="    text-align: left;" class="form-group">
+                    <label>Type of Services :</label>
+                    <select name="service" class="form-control" required="">
+                        <option value="">Select Service</option>
+                        <option value="Website Development">Website Development</option>
+                        <option value="App Development">App Development</option>
+                        <option value="Software Development">Software Development</option>
+                        <option value="Digital Marketing">Digital Marketing</option>
+                        <option value="Social Media">Social Media</option>
+                        <option value="SEO">SEO</option>
+                        <option value="Training/Internship">Training/Internship</option>
+                        <option value="Start up Consultancy">Start up Consultancy</option>
+                        <option value="#">Web Hosting</option>
+                    </select>
+                </div>
+                <div  style="    text-align: left;" class="form-group">
+                    <label>Other :</label>
+                    <input class="form-control" type="text" name="other" oninput="this.value = this.value.replace(/[^a-zA-Z\s]/g, '').replace(/(\..*)\./g, '$1');" placeholder="Other Service">
+                </div> 
+                <div  style="    text-align: left;" class="form-group">
+                    <label>Address / City :</label>
+                    <textarea class="form-control" rows="4" cols="10" name="address" placeholder="Address / City"></textarea>
+                </div>
+                <div  style="    text-align: left;" class="form-group">
+                    <label>Any Comment :</label>
+                    <textarea class="form-control" rows="4" cols="10" name="comment" placeholder="Comment"></textarea>
+                </div>
+                <!--<div class="form-group">-->
+                <!--    <input type="text" name="captcha" id="captcha" class="form-control" placeholder="Enter Captcha" required>-->
+                <!--    <img src="captcha.php">-->
+                <!--</div>-->
+                
+                <!--<div class="">-->
+                <!--     <label>Captcha Code :</label>-->
+                <!--    <input type="text" name="captcha" id="captcha" required="reCAPTCHA is not valid. Please try again!" placeholder="Captcha Code" class="form-control">-->
+                <!--    <img src="captcha.php" id="capt">-->
+                    
+                <!--</div>-->
+                <div  style="    text-align: left;" class="form-group">
+                    <center>
+                        <input class="btn btn-success btn-lg" type="submit" id="quoteReq" name="submit" value="Submit">
+                        <input class="btn btn-danger btn-lg" type="reset" name="btn_reset" value="Clear">
+                    </center>
+                </div>
+            </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+  </div>
+</div>
                             </div>
                         </div>
 

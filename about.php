@@ -758,7 +758,7 @@
                             <div class="sec-title">
                                 <div class="te-subtitle"></div>
                                 <div class="te-title"></div>
-                                <p>"We aspire to be the global sourcing choice of the global market and revolutionize the way service processes function. Our goal is to reach out to common people across the globe and make Information Technology a tool for the Masses, as well as the Classes. We strive to create innovative IT solutions and provide IT-enabled services to enthrall customers worldwide and build relationships based on Trust, Values, and Professionalism." .</p>
+                                <p>"We aspire to be the global sourcing choice of the global market and revolutionize the way service processes function. Our goal is to reach out to common people across the globe and make Information Technology a tool for the "Masses", as well as the "Classes". We strive to create innovative IT solutions and provide IT-enabled services to enthrall customers worldwide and build relationships based on Trust, Values, and Professionalism."</p>
                             </div>
 
                         </div>
@@ -1388,6 +1388,358 @@
                                                             </div>
                                                     </div>
 
+
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/NILAM-removebg-preview.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Nilam Bodke</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Nilam Bodke</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">SR. SOFTWARE DEVELOPER</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/PRATHIKSHA-removebg-preview.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Pratiksha K.</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Pratiksha Karwate</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">TEAM LEAD</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/Mhesh-removebg-preview.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Mahesh Mhaske</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Mahesh Mhaske</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">LEARNING HEAD</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/savita-removebg-preview.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Savita Hajare</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Savita Hajare</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">FULL STACK DEVELOPERD</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/VIKAS-removebg-preview.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Vivek Patil</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Vivek Patil</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">FULL STACK DEVELOPER</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/RUPALI-removebg-preview.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Rupali Patil</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Rupali Patil</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">FULL STACK DEVELOPER</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/VIKAS WAGH.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Vikas Wagh</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Vikas Wagh</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">LEARNING HEAD</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/SHUBHAM-removebg-preview.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Shubham K.</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Shubham Kothawade</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">REACT DEVELOPER</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/VARSHA-removebg-preview.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Varsha Rajguru</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Varsha Rajguru</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">LEARNING HEAD</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/POOJA-removebg-preview.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Pooja Dalvi</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Pooja Dalvi</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">LEARNING HEAD</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/KAJAL-removebg-preview.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Kajal Gurav</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Kajal Gurav</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">LEARNING HEAD</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+                                                   
+                                                   
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/ROHINI-removebg-preview (1).png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Rohini Gaikwad</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Rohini Gaikwad</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">SOFTWARE TESTER</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/VISHVAAMBAR-removebg-preview.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Vishwambhar</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Vishwambhar Gore</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">ANDROID DEVELOPER</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+
+                                                   
+                                                    
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/MOHINI-removebg-preview.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Mohini Kadam</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Mohini Kadam</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">FULL STACK DEVELOPER</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/PRATHIKSHAAA-removebg-preview.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Pratiksha M.</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Pratiksha Murkute</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">FULL STACK DEVELOPER</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/RAVINDRA-removebg-preview.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Ravindra K.</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Ravindra Kandekar</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation">SOFTWARE DEVELOPER</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
                                                     <div class="col-lg-3 col-md-6 col-sm-12 team-block">
                                                     <div class="team-block-two">
                                                                 <div class="inner-box te-team">
@@ -1558,355 +1910,11 @@
                                                                 </div>
                                                             </div>
                                                     </div>
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/NILAM-removebg-preview.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Nilam Bodke</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Nilam Bodke</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">SR. SOFTWARE DEVELOPER</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/PRATHIKSHA-removebg-preview.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Pratiksha K.</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Pratiksha Karwate</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">TEAM LEAD</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/Mhesh-removebg-preview.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Mahesh Mhaske</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Mahesh Mhaske</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">LEARNING HEAD</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/VIKAS WAGH.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Vikas Wagh</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Vikas Wagh</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">LEARNING HEAD</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/VARSHA-removebg-preview.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Varsha Rajguru</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Varsha Rajguru</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">LEARNING HEAD</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/POOJA-removebg-preview.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Pooja Dalvi</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Pooja Dalvi</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">LEARNING HEAD</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/KAJAL-removebg-preview.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Kajal Gurav</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Kajal Gurav</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">LEARNING HEAD</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
                                                    
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/savita-removebg-preview.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Savita Hajare</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Savita Hajare</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">FULL STACK DEVELOPERD</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/ROHINI-removebg-preview (1).png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Rohini Gaikwad</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Rohini Gaikwad</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">SOFTWARE TESTER</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
+                                                   
+                                                  
 
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/VISHVAAMBAR-removebg-preview.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Vishwambhar</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Vishwambhar Gore</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">ANDROID DEVELOPER</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/VIKAS-removebg-preview.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Vivek Patil</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Vivek Patil</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">FULL STACK DEVELOPER</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/RUPALI-removebg-preview.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Rupali Patil</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Rupali Patil</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">FULL STACK DEVELOPER</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/SHUBHAM-removebg-preview.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Shubham K.</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Shubham Kothawade</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">REACT DEVELOPER</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/MOHINI-removebg-preview.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Mohini Kadam</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Mohini Kadam</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">FULL STACK DEVELOPER</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/PRATHIKSHAAA-removebg-preview.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Pratiksha M.</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Pratiksha Murkute</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">FULL STACK DEVELOPER</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/RAVINDRA-removebg-preview.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Ravindra K.</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Ravindra Kandekar</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation">SOFTWARE DEVELOPER</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
+                                                  
                                                    
 
                                                 </div>
@@ -2543,7 +2551,7 @@
                                                             <figure class="image-box">
                                                                 <img loading="lazy" decoding="async" width="370"
                                                                     height="270"
-                                                                    src="./wp-content/uploads/2023/08/fun @ sumago/navratri/navratri (4).png"
+                                                                    src="./wp-content/uploads/2023/08/fun @ sumago/navratri/navratri (3).png"
                                                                     class="attachment-printpark_370x270 size-printpark_370x270 wp-post-image"
                                                                     alt="">
                                                             </figure>
@@ -2926,7 +2934,7 @@
 
                                     <div class="sec-title">
                                         <!--<h6 class="te-subtitle"></h6>-->
-                                        <h2 class="te-title printpark-size-default">Corporate training 2023 </h2>
+                                        <h2 class="te-title printpark-size-default">Corporate Training 2023 </h2>
                                         
                                     </div>
 
@@ -2943,7 +2951,7 @@
         <div class="upper-text">
         <h2></h2>
         </div>
-        <p>There are so many factors that affect our performance on a day-to-day basis to which we might not necessarily pay heed to. These factors, if balanced properly, would result in optimum energy utilization and working capabilities. To improve this potential and have better time management strategies, a 2-day Corporate Training session was organized for the Sumago Team from Nashik and Pune
+        <p>There are so many factors that affect our performance on a day-to-day basis to which we might not necessarily pay heed to. These factors, if balanced properly, would result in optimum energy utilization and working capabilities. To improve this potential and have better time management strategies, a 2-day Corporate Training session was organized for the Sumago Team from Nashik and Pune.
    
         </p>
         <div class="two-column">

@@ -410,9 +410,9 @@ blockquote{
 	width: 100%;
 	height: 60px;
 	line-height:60px;
-	background: #faf1ef;
+	/* background: #faf1ef; */
 	border-radius: 15px;
-	border: 1px dashed #faf1ef;
+	/* border: 1px dashed #faf1ef; */
 	font-size: 17px;
 	color: #7b7675;
 	padding: 0px 20px;

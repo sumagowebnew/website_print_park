@@ -308,7 +308,7 @@
                 <div class="content-box clearfix centred">
                     <div class="sec-title">
                         <h6 class="te-subtitle">Career Opportunities</h6>
-                        <h2 class="te-title">Job Opening</h2>
+                        <h2 class="te-title">Job Openings</h2>
                     </div>
                     
                 </div>
@@ -548,7 +548,7 @@
                 <div class="content-box clearfix centred">
                     <div class="sec-title">
                         <h6 class="te-subtitle">Career Opportunities</h6>
-                        <h2 class="te-title">Internship Opening</h2>
+                        <h2 class="te-title">Internship Openings</h2>
                     </div>
                     <!-- <span class="offer-box">*Off 20%</span>
                     <div class="tab-btn-box">

@@ -367,7 +367,7 @@
     <!-- Award end -->
 
     <!-- Que & Ans start-->
-    <section
+    <section id="quebak"
         class="elementor-section elementor-inner-section elementor-element elementor-element-cb662a5 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
         data-id="cb662a5" data-element_type="section">
         <div class="elementor-container elementor-column-gap-default">
@@ -554,7 +554,7 @@
                                                 <div class="inner-box town-funfact-section">
                                                     <div class="count-outer count-box">
                                                         <span class="count-text te-count" data-speed="1500"
-                                                            data-stop="500">780</span>
+                                                            data-stop="780">780</span>
                                                     </div>
                                                     <p class="te-text">Satisfied clients</p>
                                                     <div class="icon-box te-icon">
@@ -575,7 +575,7 @@
                                                 <div class="inner-box town-funfact-section">
                                                     <div class="count-outer count-box">
                                                         <span class="count-text te-count" data-speed="1500"
-                                                            data-stop="300">1850</span>
+                                                            data-stop="1850">1850</span>
                                                     </div>
                                                     <p class="te-text">Projects done</p>
                                                     <div class="icon-box te-icon">
@@ -601,7 +601,7 @@
                                                 <div class="inner-box town-funfact-section">
                                                     <div class="count-outer count-box">
                                                         <span class="count-text te-count" data-speed="1500"
-                                                            data-stop="500">700</span><span
+                                                            data-stop="700">700</span><span
                                                             class="symble te-symble"></span>
                                                     </div>
                                                     <p class="te-text">Cups of Coffee</p>
@@ -628,7 +628,7 @@
                                                 <div class="inner-box town-funfact-section">
                                                     <div class="count-outer count-box">
                                                         <span class="count-text te-count" data-speed="1500"
-                                                            data-stop="500">75</span><span
+                                                            data-stop="75">75</span><span
                                                             class="symble te-symble"></span>
                                                     </div>
                                                     <p class="te-text">Awards won</p>
@@ -946,7 +946,7 @@
                                                                 </h3>
                                                                 <p class="ser-text">A team of passionate and skilled
                                                                     professionals committed to providing top-notch IT
-                                                                    solutions</p>
+                                                                    solutions.</p>
                                                                 <figure class="image-box"><img width="220" height="220"
                                                                         src="./wp-content/uploads/2023/08/im/98.png"
                                                                         class="attachment-printpark_220x220 size-printpark_220x220 wp-post-image"
@@ -975,7 +975,7 @@
                                                                         Approach</a></h3>
                                                                 <p class="ser-text">Your satisfaction is our priority.
                                                                     We work closely with you to understand your goals &
-                                                                    challenges </p>
+                                                                    challenges. </p>
                                                                 <figure class="image-box"><img width="220" height="220"
                                                                         src="./wp-content/uploads/2023/08/im/circle.png"
                                                                         class="attachment-printpark_220x220 size-printpark_220x220 wp-post-image"
@@ -3564,6 +3564,7 @@
                 data-id="633ebfb" data-element_type="column">
                 <div class="elementor-widget-wrap elementor-element-populated"
                     style="  background-image:url(./wp-content/uploads/2023/08/call/1827.png);">
+                    
                     <div class="col-lg-7 col-md-12 d-grid align-items-center justify-content-center">
                         <h3><b><a class="ser-title mt-4" style="color:black">Leverage our expertise to navigate complex IT<br>landscapes and overcome technical hurdles.</a></b></h3>
                         <!--<h3><b><a class="ser-title" style="color:black">Partner with IT experts to achieve your goals</a></b></h3>-->
