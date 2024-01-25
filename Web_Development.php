@@ -86,7 +86,7 @@
                                     
                                 </div>
                                 <div class="download-btn">
-                                    <button type="button"><a href ="./wp-content/uploads/2023/08/trikfire.pdf" download attributes-list target="_blank"><i class="flaticon-file"></i></a></button>
+                                    <button type="button"><a href ="./wp-content/uploads/2023/08/Final Business Profile.pdf" download attributes-list target="_blank"><i class="flaticon-file"></i></a></button>
                                 </div>
                             </div>
                         </div>
