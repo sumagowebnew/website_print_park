@@ -1,8 +1,7 @@
 
 <?php include "header.php"; ?>
 
-<!-- <div data-elementor-type="wp-page" data-elementor-id="1803" class="elementor elementor-1803"> -->
-
+<div data-elementor-type="wp-page" data-elementor-id="1803" class="elementor elementor-1803">
     <!-- <section
         class="elementor-section elementor-top-section elementor-element elementor-element-0ba71a0 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
         data-id="0ba71a0" data-element_type="section">
@@ -670,9 +669,8 @@
             </div>
         </div>
     </section> -->
-    
-    <!-- page-title -->
-<section class="desktopcorevalue">
+        <!-- page-title -->
+<section class=" desktopcorevalue">
 <figure class="image"><img src="./wp-content/uploads/2023/08/WHY SUMAGO/core_value1.png" alt="Awesome Image"></a></figure>
 
     <div class="pattern-layer"
