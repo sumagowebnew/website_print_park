@@ -1,9 +1,29 @@
 /* Responsive Css */
+.mobilecorevalue{
+  display: none;
+}
+.mobileaward{
+  display: none;
+}
 
-
+.destopaward{
+  display: block;
+}
 @media only screen and (max-width: 1849px){
 
-  
+  .main-header .outer-box{
+    /* position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; */
+    padding: 0px 50px 0px 131px;
+  }
+  .mobilecorevalue{
+    display: none;
+  }
+  .mobileaward{
+    display: none;
+  }
 }
 
 
@@ -12,21 +32,38 @@
   .banner-section{
     padding: 0px;
   }
-
-  .main-header .outer-box{
+  .mobilecorevalue{
+    display: none;
+  }
+  .mobileaward{
+    display: none;
+  }
+  .main-header .outer-box .outer-box{
     padding: 0px 30px;
   }
+  .main-header .outer-box{
+    padding: 0px 130px;
+  }
+
 
   .main-header .logo-box{
     margin-right: 100px;
   }
+  .header-lower .outer-box .left-column{
+    margin-left: 1px;
 
+  }
 }
 
 
 @media only screen and (max-width: 1549px){
 
-
+  .mobilecorevalue{
+    display: none;
+  }
+  .mobileaward{
+    display: none;
+  }
 
 }
 
@@ -46,7 +83,12 @@
   .banner-style-two .pattern-layer{
     display: none;
   }
-
+  .mobilecorevalue{
+    display: none;
+  }
+  .mobileaward{
+    display: none;
+  }
 }
 
 
@@ -55,7 +97,12 @@
   .main-header .logo-box{
     margin-right: 30px;
   }
-
+  .mobilecorevalue{
+    display: none;
+  }
+  .mobileaward{
+    display: none;
+  }
   .main-header .logo-box .shape{
     display: none;
   }
@@ -95,6 +142,11 @@
     display: none;
   }
 
+  .header-lower .outer-box .left-column{
+    margin-left: 101px;
+
+  }
+
 }
 
 
@@ -106,7 +158,13 @@
   .main-header.style-one .outer-container:before{
     display: none !important;
   }
+.mobilecorevalue{
+  display: none;
+}
 
+.mobileaward{
+  display: none;
+}
   .menu-area .mobile-nav-toggler {
     display: block;
     padding: 10px;
@@ -197,8 +255,13 @@
 
 }
 
+/* 
+@media only screen  and (min-width: 866px) and (min-width: 1347px){
+  .header-lower .outer-box .left-column{
+    margin-left: 101px;
 
-
+  }
+} */
 @media only screen and (min-width: 768px){
   .main-menu .navigation > li > ul,
   .main-menu .navigation > li > ul > li > ul,
@@ -207,6 +270,10 @@
     visibility:hidden;
     opacity:0;
   }
+  .page-title .auto-container .content-box{
+    margin-bottom: 20px;
+    }
+
 }
 
 
@@ -481,7 +548,27 @@
   .why-section .image-box{
     margin: 30px 0px;
   }
+  .mobilecorevalue{
+    display: block;
+  }
+    
+  .header-top .text2{
+    display: none;
+  }
+  .header-top .text{
+    display: none;
+  }
 
+  .page-title .auto-container .content-box{
+    margin-bottom: 20px;
+    }
+  .desktopcorevalue{
+    display: none;
+  }
+
+  .destopaward{
+    display: none;
+  }
   .banner-carousel .content-box h2{
     font-size: 40px;
     line-height: 50px;
@@ -538,7 +625,7 @@
   }
 
   .pricing-section{
-    padding: 65px 0px 40px 0px;
+    padding: 0px 0px 40px 0px;
   }
 
   .pricing-block-one{
@@ -711,6 +798,7 @@
   .page-title h1{
     font-size: 40px;
     line-height: 50px;
+    margin-bottom: 40px;
   }
 
   .page-title{
@@ -747,7 +835,7 @@
   .checkout-page-section,
   .blog-grid,
   .sidebar-page-container{
-    padding: 70px 0px;
+    padding: 0px 0px;
   }
 
   .shop-details .product-discription .tab-btn{
@@ -762,7 +850,7 @@
   .myaccount-section,
   .team-style-two,
   .project-details{
-    padding: 65px 0px 70px 0px;
+    padding: 0px 0px 70px 0px;
   }
 
   .checkout-page-section .information-inner,
@@ -869,6 +957,20 @@
 		gap:15px;
 		margin:0px;
 	}
+  .weare-section .image-box .image img{
+    /* width: 100%; */
+    margin-left: 1px; 
+  }
+  .page-title .auto-container .content-box{
+    margin-bottom: 20px;
+    }
+  
+    .header-top .text2{
+      display: none;
+    }
+    .header-top .text{
+      display: none;
+    }
 }
 
 @media only screen and (max-width: 599px){
@@ -876,11 +978,23 @@
   .main-header .menu-right-content .option-box li.nav-toggler{
     display: none;
   }
-
+  .mobileaward{
+    display: block;
+  }
   .header-top .social-links{
     display: none;
   }
-
+  
+  .header-top .text2{
+    display: none;
+  }
+  .header-top .text{
+    display: none;
+  }
+  .page-title .auto-container .content-box{
+  margin-bottom: 20px;
+  }
+  
   .main-header .header-lower .menu-right-content{
     padding-bottom: 0px;
 	display:none;
@@ -973,7 +1087,16 @@
   .mobile-menu{
     width: 100%;
   }
-
+  .mobileaward{
+    display: block;
+  }
+   
+  .header-top .text2{
+    display: none;
+  }
+  .header-top .text{
+    display: none;
+  }
   .header-top .outer-container{
     padding-left: 15px;
     padding-right: 15px;

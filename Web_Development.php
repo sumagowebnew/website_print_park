@@ -104,17 +104,19 @@
                                             src="./wp-content/uploads/2023/08/laptop.png"
                                             alt="Awesome Image"></figure>
                                 </div>
-                           <button type="button"  class="theme-btn btn-two" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                <div>
+                                <!-- Button trigger modal -->
+<!-- <p type="button" class="theme-btn btn-two">
 GET A QUOTE
-</button>
-
+</p> -->
+</div>
 <!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
-  <div class="modal-content">
-        <div class="modal-header">
+    <div class="modal-content">
+    <div class="modal-header">
           <h4 class="modal-title">GET A QUOTE</h4>
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-bs-dismiss="modal">×</button>
         </div>
         <div class="modal-body">
             <form method="post" name="myForm" onsubmit="return quoteRequest();">
@@ -142,7 +144,7 @@ GET A QUOTE
                         <option value="SEO">SEO</option>
                         <option value="Training/Internship">Training/Internship</option>
                         <option value="Start up Consultancy">Start up Consultancy</option>
-                        <option value="#">Web Hosting</option>
+                        <option value="Web Hosting">Web Hosting</option>
                     </select>
                 </div>
                 <div  style="    text-align: left;" class="form-group">
@@ -168,20 +170,27 @@ GET A QUOTE
                 <!--    <img src="captcha.php" id="capt">-->
                     
                 <!--</div>-->
-                <div  style="    text-align: left;" class="form-group">
-                    <center>
-                        <input class="btn btn-success btn-lg" type="submit" id="quoteReq" name="submit" value="Submit">
+                <div  style="text-align: left;" class="form-group text-center mt-4">
+                    <!-- <center> -->
+                        <input class="btn btn-success btn-lg"  onclick="myFunction()" type="submit" id="quoteReq" name="submit" value="Submit">
                         <input class="btn btn-danger btn-lg" type="reset" name="btn_reset" value="Clear">
-                    </center>
+                    <!-- </center> -->
                 </div>
             </form>
         </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-        </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
       </div>
+    </div>
   </div>
 </div>
+<div>
+    <button type="button" class="theme-btn btn-two"  data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal">
+GET A QUOTEs
+</button>
+</div>
+<!-- Modal end-->
+
                             </div>
                         </div>
 
@@ -197,8 +206,8 @@ GET A QUOTE
                                 decoding="async"></figure>
                         <div class="text-box">
                             <h2>Web Development</h2>
-                            <p>Website and web application development, upkeep, and enhancement are all included in web development services. This includes developing the front-end and back-end components, creating the user interface and graphic components, and publishing the website to the internet. In order to guarantee that websites run successfully, these services also include hosting, security, and performance optimization. We create simple websites as well as intricate e-commerce platforms and web-based applications in collaboration with clients to satisfy their demands. Having a strong online presence, improving user experience, and taking care of technical issues like SEO and security are also the main objectives.</p>
-
+                            <p>Website and web application development, upkeep, and enhancement are all included in web development services. This includes developing the front-end and back-end components, creating the user interface and graphic components, and publishing the website to the internet. In order to guarantee that websites run successfully, these services also include hosting, security, and performance optimization. We create simple websites as well as intricate e-commerce platforms and web-based applications in collaboration with clients to satisfy their demands. </p>
+                            <!-- Having a strong online presence, improving user experience, and taking care of technical issues like SEO and security are also the main objectives. -->
                         </div>
                     </div>
                     
@@ -385,7 +394,7 @@ GET A QUOTE
                                     <div class="col-lg-6 col-md-6 col-sm-12 content-column">
                                         <div class="content-box">
                                             <h3>Timely Delivery</h3>
-                                            <p>Our professionals are committed to delivering projects on time, ensuring that you stay on track and ahead of your competitio.</p>
+                                            <p>Our professionals are committed to delivering projects on time, ensuring that you stay on track and ahead of your competition.</p>
                                          
                                         </div>
                                     </div>
@@ -480,3 +489,4 @@ GET A QUOTE
 <div class="clearfix"></div>
 
 <?php include "footer.php"; ?>
+

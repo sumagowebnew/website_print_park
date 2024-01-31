@@ -5,10 +5,10 @@
 <!-- page-title -->
 <section class="page-title centred">
     <div class="bg-layer"
-        style="background-image: url(./wp-content/themes/printpark/assets/images/shape/pooja.png);     background-size: cover;">
+        style="background-image: url(./wp-content/themes/printpark/assets/images/shape/Frame.png);     background-size: cover;">
     </div>
     <div class="pattern-layer"
-    style="background-image: url(./wp-content/themes/printpark/assets/images/shape/pooja.png);"></div>
+    style="background-image: url(./wp-content/themes/printpark/assets/images/shape/Frame.png);"></div>
     <div class="auto-container">
         <div class="content-box">
             <h1>IoT (Internet of Things)</h1>
@@ -95,7 +95,7 @@
                                     
                                 </div>
                                 <div class="download-btn">
-                                    <button type="button"><a href ="./wp-content/themes/printpark/assets/images/shape/PDF.png" attributes-list target="_blank"><i class="flaticon-file"></i></a></button>
+                                    <button type="button"><a href ="./wp-content/uploads/2023/08/Final Business Profile.pdf" attributes-list target="_blank"><i class="flaticon-file"></i></a></button>
                                 </div>
                             </div>
                         </div>
@@ -123,7 +123,7 @@ GET A QUOTE
   <div class="modal-content">
         <div class="modal-header">
           <h4 class="modal-title">GET A QUOTE</h4>
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-bs-dismiss="modal">×</button>
         </div>
         <div class="modal-body">
             <form method="post" name="myForm" onsubmit="return quoteRequest();">
@@ -177,16 +177,16 @@ GET A QUOTE
                 <!--    <img src="captcha.php" id="capt">-->
                     
                 <!--</div>-->
-                <div  style="    text-align: left;" class="form-group">
+                <div  style="    text-align: left;" class="form-group mt-4">
                     <center>
-                        <input class="btn btn-success btn-lg" type="submit" id="quoteReq" name="submit" value="Submit">
+                        <input class="btn btn-success btn-lg" onclick="myFunction()" type="submit" id="quoteReq" name="submit" value="Submit">
                         <input class="btn btn-danger btn-lg" type="reset" name="btn_reset" value="Clear">
                     </center>
                 </div>
             </form>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
         </div>
       </div>
   </div>

@@ -76,12 +76,12 @@
                                 </li>
                                 <li id="menu-item-1266"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1266">
-                                    <a href="">Projects
+                                    <a href="#">Projects
                                     </a>
                                 </li>
                                 <li id="menu-item-1267"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1267">
-                                    <a href="career.php">Team</a>
+                                    <a href="#">Team</a>
                                 </li>
 
                             </ul>
@@ -97,55 +97,58 @@
                             <ul id="menu-essentials-menu" class="menu">
                                 <li id="menu-item-1271"
                                     class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1271">
-                                    <a href="Data_Analytics.php">Data Analytics</a>
+                                    <a href="Web_Development.php">Web Development</a>
+                                    
                                 </li>
                                 <li id="menu-item-1272"
                                     class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1272">
-                                    <a href="Artificial_Intelligence.php">Artificial Intelligence</a>
+                                    <a href="Mobile_Application.php">Mobile Application</a>
                                 </li>
                                 <li id="menu-item-1273"
                                     class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1273">
-                                    <a href="Outsourcing_Engagement.php">Outsourcing Engagement</a>
+                                    <a href="Digital_Marketing.php">Digital Marketing</a>
+                                    
                                 </li>
                                 <li id="menu-item-1274"
                                     class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1274">
-                                    <a href="Project_Management.php">Project Management
-                                        Products</a>
+                                    <a href="IT_Consulting.php">IT Consulting</a>
+                                    <!-- <a href="Project_Management.php">Project Management Products</a> -->
                                 </li>
                                 <li id="menu-item-1275"
                                     class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1275">
-                                    <a href="Resource_Augmentation.php">Resource Augmentation</a>
+                                    <a href="IT_Solutions.php">IT Solutioning</a>
+                                    
                                 </li>
                                 <li id="menu-item-1276"
                                     class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1276">
-                                    <a href="IOT.php">IOT</a>
+                                    <a href="Data_Analytics.php">Data Analytics</a>
                                 </li>
 
                             </ul>
                             <ul id="menu-company-menu " class="menu ms-5">
-                                <li id="menu-item-1270"
+                                <!-- <li id="menu-item-1270"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1270">
-                                    <a href="Digital_Marketing.php">Digital Marketing</a>
-                                </li>
+                                   <a href="Data_Analytics.php">Data Analytics</a>
+                                </li> -->
                                 <li id="menu-item-1265"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1265">
-                                    <a href="Web_Development.php">Web Development</a>
+                                    <a href="Resource_Augmentation.php">Resource Augmentation</a>
                                 </li>
                                 <li id="menu-item-1266"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1266">
-                                    <a href="Mobile_Application.php">Mobile Application</a>
+                                    <a href="Blockchain.php">Blockchain</a>
                                 </li>
                                 <li id="menu-item-1267"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1267">
-                                    <a href="IT_Consulting.php">IT Consulting</a>
+                                    <a href="Artificial_Intelligence.php">Artificial Intelligence</a>
                                 </li>
                                 <li id="menu-item-1268"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1268">
-                                    <a href="IT_Solutioning.php">IT Solutioning</a>
+                                    <a href="Outsourcing_Engagement.php">Outsourcing Engagement</a>
                                 </li>
                                 <li id="menu-item-1269"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1269">
-                                    <a href="Blockchain.php">Blockchain</a>
+                                    <a href="IoT.php">IOT</a>
                                 </li>
                             </ul>
                         </div>
@@ -164,9 +167,9 @@
                                 style="height: 50px; width:50px"
                                         src="./wp-content/themes/printpark/assets/images/shape/cricle.png"
                                         alt="Awesome Image"></div>
-                                <h6>Promotion</h6>
+                                <!-- <h6>Promotion</h6> -->
                                 <h2>Everything <br>to Market Your Business.</h2> <a
-                                    href="#"
+                                    href="Digital_Marketing.php"
                                     class="theme-btn">Start Today</a>
                             </div>
                         </div>
@@ -180,8 +183,8 @@
                 <figure class="footer-logo"><a href="./index.php"><img style="height:40px; width:300px"
                             src="./wp-content/uploads/2023/08/wwww.png" alt="Awesome Image"></a></figure>
                 <div class="copyright">
-                    <p>Copyrights &copy; 2023 <a href="#">Sumago.</a>
-                        AllRights
+                    <p>Copyrights &copy; 2023 <a href="index.php">Sumago.</a>
+                        All Rights
                         Reserved.</p>
                 </div>
             </div>
@@ -220,7 +223,7 @@
                     <!--    <a title="Pricing &#038; Plan"  class="hvr-underline-from-left1"-->
                     <!--        data-scroll data-options="easing: easeOutQuart">Pricing &#038; Plan</a></li>-->
                     <li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97">
-                        <a title="Team" class="hvr-underline-from-left1" data-scroll href="about.php"
+                        <a title="Team" class="hvr-underline-from-left1" data-scroll href="team.php"
                             data-options="easing: easeOutQuart">Team</a></li>
                 </ul>
             </div>
@@ -240,6 +243,13 @@
 
 
 </div>
+
+
+<script>
+function myFunction() {
+  alert("Form submitted Successfully...!!!");
+}
+</script>
 
 <script>(function () {
         function maybePrefixUrlField() {
@@ -302,6 +312,9 @@
     var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close", "a11yCarouselWrapperAriaLabel": "Carousel | Horizontal scrolling: Arrow Left & Right", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } } }, "version": "3.17.3", "is_static": false, "experimentalFeatures": { "e_dom_optimization": true, "e_optimized_assets_loading": true, "e_optimized_css_loading": true, "additional_custom_breakpoints": true, "container": true, "e_swiper_latest": true, "block_editor_assets_optimize": true, "landing-pages": true, "e_image_loading_optimization": true, "e_global_styleguide": true }, "urls": { "assets": ".\/\/wp-content\/plugins\/elementor\/assets\/" }, "swiperClass": "swiper", "settings": { "page": [], "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 1802, "title": "WordPress%20Printing", "excerpt": "", "featuredImage": false } };
     /* ]]> */
 </script>
+<!-- <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script> -->
 <script type="text/javascript" src="./wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.3"
     id="elementor-frontend-js"></script>
 <script type="text/javascript" src="./wp-content/plugins/printpark-plugin/assets/js/banner-carousel.js?ver=1.0.0"
@@ -320,6 +333,9 @@
     id="client-carousel-js"></script>
 <script type="text/javascript" defer src="./wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.9.10"
     id="mc4wp-forms-api-js"></script>
+    <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"> -->
+
 </body>
 
 </html>

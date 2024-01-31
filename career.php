@@ -328,8 +328,11 @@
                                             <h2 class="te-heading">
                                             <h3 class="te-pac">MEAN DEVELOPER</h3>
                                                 <!-- <span class="symble">$</span> 549 <span class="text">/Mo</span> -->
-                                            </h2> <a href=""
-                                                class="theme-btn printpark-btn1">Apply Now</a>
+                                            </h2> 
+                                            <button type="button"  class="theme-btn btn-two" data-bs-toggle="modal" data-bs-target="#exampleModal">
+Apply Now
+</button>
+
                                         </div>
                               
                                         <div class="table-content te-list">
@@ -373,8 +376,11 @@
                                             <h2 class="te-heading">
                                                 <h3 class="te-pac" style="color:#f54c4c;">MEAN DEVELOPER</h3>
                                                 <!-- <span class="symble">$</span> 749 <span class="text">/ye</span> -->
-                                            </h2> <a href=""
-                                                class="theme-btn printpark-btn1">Apply Now</a>
+                                            </h2> 
+                                            <button type="button"  class="theme-btn btn-two" data-bs-toggle="modal" data-bs-target="#exampleModal">
+Apply Now
+</button>
+
                                         </div>
                                         <div class="table-content te-list">
                                             <div class="card__header">
@@ -416,9 +422,12 @@
                                             <h2 class="te-heading">
                                             <h3 class="te-pac">MEAN DEVELOPER</h3>
                                                 <!-- <span class="symble">$</span> 549 <span class="text">/Mo</span> -->
-                                            </h2> <a href=""
-                                                class="theme-btn printpark-btn1">Apply Now</a>
-                                        </div>
+                                            </h2> 
+                                            <button type="button"  class="theme-btn btn-two" data-bs-toggle="modal" data-bs-target="#exampleModal">
+Apply Now
+</button>
+
+                                              </div>
                               
                                         <div class="table-content te-list">
                                             <div class="card__header">
@@ -454,7 +463,7 @@
                         </div>
                     </div>
 
-                    <div class="tab" id="tab-4">
+                    <!-- <div class="tab" id="tab-4">
                         <div class="row clearfix">
                             <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
                                 <div class="pricing-block-one ">
@@ -532,13 +541,84 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
     </div>
 </section>
 <!-- pricing-section end -->
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+  <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title">Apply Now</h4>
+          <button type="button" class="close" data-bs-dismiss="modal">×</button>
+        </div>
+        <div class="modal-body">
+            <form method="post" name="myForm" enctype="multipart/form-data" onsubmit="return validate();">
+            <div class="form-group">
+                <label>Job Title :</label>
+                <input class="form-control" type="text" name="job_title" oninput="this.value = this.value.replace(/[^a-zA-Z\s]/g, '').replace(/(\..*)\./g, '$1');" placeholder="Name" required="">
+            </div>
+            <div class="form-group">
+                <label>Name :</label>
+                <input class="form-control" type="text" name="$fname" oninput="this.value = this.value.replace(/[^a-zA-Z\s]/g, '').replace(/(\..*)\./g, '$1');" placeholder="Name" required="">
+            </div>
+            <div class="form-group">
+                <label>Mobile Number :</label>
+                <input class="form-control" type="tel" name="mobile_no" oninput="this.value = this.value.replace(/[^0-9]/g, '').replace(/(\..*)\./g, '$1');" maxlength="10" minlength="10" pattern="[7-9]{1}[0-9]{9}" placeholder="Mobile no." required="">
+            </div>
+            <div class="form-group">
+                <label>Address :</label>
+                <textarea type="text" name="address" class="form-control" placeholder="Address" oninput="name required" required=""></textarea>
+            </div>
+            <div class="form-group">
+                <label>Email Address :</label>
+                <input class="form-control" type="email" name="email" pattern="^(([-\w\d]+)(\.[-\w\d]+)*@([-\w\d]+)(\.[-\w\d]+)*(\.([a-zA-Z]{2,5}|[\d]{1,3})){1,2})$" placeholder="Email" required="">
+            </div>
+            <div class="form-group">
+                <label>Confirm Email Address :</label>
+                <input class="form-control" type="email" name="comemail" pattern="^(([-\w\d]+)(\.[-\w\d]+)*@([-\w\d]+)(\.[-\w\d]+)*(\.([a-zA-Z]{2,5}|[\d]{1,3})){1,2})$" placeholder="Email" required="">
+            </div>
+            <div class="form-group">
+                <label>Cover Letter :</label>
+                <div>
+                    <input type="file" name="cv" accept=".pdf" id="cv" required="">
+                    <span id="file_error" class="inputError"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label>Upload CV :</label>
+                <div>
+                    <input type="file" name="upcv" accept=".pdf" id="cv" required="">
+                    <span id="file_error" class="inputError"></span>
+                </div>
+            </div>
+            
+            <!-- <div class="form-group">
+                <input type="text" name="captcha1" id="captcha" class="form-control" placeholder="Enter Captcha" required="">
+                <img src="captcha.php">
+            </div> -->
+            
+            <div class="form-group text-center">
+                   <input class="btn btn-success btn-lg"  onclick="myFunction()" type="submit" name="btn_submit" value="Submit">
+                    
+                    <!-- <input class="btn btn-danger btn-lg" type="reset" name="btn_reset" value="Clear"> -->
+            </div>
+        </form>
+        
+      </div>
+</div>
+  </div>
+</div>
+
+
+
+
+
 
 <!-- pricing-section -->
 <section class="pricing-section style-two">
@@ -574,8 +654,11 @@
                                             <h2 class="te-heading">
                                             <h3 class="te-pac">MEAN DEVELOPER</h3>
                                                 <!-- <span class="symble">$</span> 549 <span class="text">/Mo</span> -->
-                                            </h2> <a href=""
-                                                class="theme-btn printpark-btn1">Apply Now</a>
+                                            </h2> 
+                                            <button type="button"  class="theme-btn btn-two" data-bs-toggle="modal" data-bs-target="#exampleModal">
+Apply Now
+</button>
+
                                         </div>
                               
                                         <div class="table-content te-list">
@@ -619,8 +702,11 @@
                                             <h2 class="te-heading">
                                                 <h3 class="te-pac" style="color:#f54c4c;">MEAN DEVELOPER</h3>
                                                 <!-- <span class="symble">$</span> 749 <span class="text">/ye</span> -->
-                                            </h2> <a href=""
-                                                class="theme-btn printpark-btn1">Apply Now</a>
+                                            </h2> 
+                                            <button type="button"  class="theme-btn btn-two" data-bs-toggle="modal" data-bs-target="#exampleModal">
+Apply Now
+</button>
+
                                         </div>
                                         <div class="table-content te-list">
                                             <div class="card__header">
@@ -662,8 +748,11 @@
                                             <h2 class="te-heading">
                                             <h3 class="te-pac">MEAN DEVELOPER</h3>
                                                 <!-- <span class="symble">$</span> 549 <span class="text">/Mo</span> -->
-                                            </h2> <a href=""
-                                                class="theme-btn printpark-btn1">Apply Now</a>
+                                            </h2> 
+                                            <button type="button"  class="theme-btn btn-two" data-bs-toggle="modal" data-bs-target="#exampleModal">
+Apply Now
+</button>
+
                                         </div>
                               
                                         <div class="table-content te-list">
@@ -700,7 +789,7 @@
                         </div>
                     </div>
 
-                    <div class="tab" id="tab-4">
+                    <!-- <div class="tab" id="tab-4">
                         <div class="row clearfix">
                             <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
                                 <div class="pricing-block-one ">
@@ -778,7 +867,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

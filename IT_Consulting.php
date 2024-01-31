@@ -112,7 +112,7 @@ GET A QUOTE
   <div class="modal-content">
         <div class="modal-header">
           <h4 class="modal-title">GET A QUOTE</h4>
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-ds-dismiss="modal">×</button>
         </div>
         <div class="modal-body">
             <form method="post" name="myForm" onsubmit="return quoteRequest();">
@@ -166,16 +166,16 @@ GET A QUOTE
                 <!--    <img src="captcha.php" id="capt">-->
                     
                 <!--</div>-->
-                <div  style="    text-align: left;" class="form-group">
+                <div  style="    text-align: left;" class="form-group mt-4">
                     <center>
-                        <input class="btn btn-success btn-lg" type="submit" id="quoteReq" name="submit" value="Submit">
+                        <input class="btn btn-success btn-lg" onclick="myFunction()" type="submit" id="quoteReq" name="submit" value="Submit">
                         <input class="btn btn-danger btn-lg" type="reset" name="btn_reset" value="Clear">
                     </center>
                 </div>
             </form>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
         </div>
       </div>
   </div>

@@ -1,7 +1,8 @@
 
 <?php include "header.php"; ?>
 
-<div data-elementor-type="wp-page" data-elementor-id="1803" class="elementor elementor-1803">
+<!-- <div data-elementor-type="wp-page" data-elementor-id="1803" class="elementor elementor-1803"> -->
+
     <!-- <section
         class="elementor-section elementor-top-section elementor-element elementor-element-0ba71a0 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
         data-id="0ba71a0" data-element_type="section">
@@ -669,15 +670,36 @@
             </div>
         </div>
     </section> -->
+    
+    <!-- page-title -->
+<section class="desktopcorevalue">
+<figure class="image"><img src="./wp-content/uploads/2023/08/WHY SUMAGO/core_value1.png" alt="Awesome Image"></a></figure>
+
+    <div class="pattern-layer"
+        style="background-image: url(./wp-content/uploads/2023/08/WHY SUMAGO/core_value1.png);"></div>
+    <!-- <div class="auto-container">
+        <div class="content-box">
+            <h1>Career</h1>
+            <ul class="bread-crumb clearfix">
+                <li class="breadcrumb-item"><a href="">Home &nbsp;</a></li>
+                <li class="breadcrumb-item">Career</li>
+            </ul>
+        </div>
+    </div> -->
+</section>
+<!-- page-title end -->
+
     <section>
-    <div class=" container-fluid">
+    <div class="container-fluid mobilecorevalue">
         
         <div class="two-column  d-flex justify-content-center">
                 
                 <!-- <div class=" col-lg-10 col-mg-11" > -->
-                        <figure class="image"><img src="./wp-content/uploads/2023/08/WHY SUMAGO/core_value1.jpg" alt="Awesome Image"></a></figure>
+                        <figure class="image"><img src="./wp-content/uploads/2023/08/WHY SUMAGO/core value NEW RESIZED mobile view.png" alt="Awesome Image"></a></figure>
         <!-- </div> -->
     </div>
+    </section>
+    
 </section  class="my-5">
     <section
         class="elementor-section elementor-top-section elementor-element elementor-element-deb1ecb elementor-section-boxed elementor-section-height-default elementor-section-height-default"
@@ -717,7 +739,7 @@
                     </div>
                 </div>
             </div>
-            <div class="elementor-column elementor-col-50 elementor-top-column py-4 mt-5 elementor-element elementor-element-620926c"
+            <div class="elementor-column elementor-col-50 elementor-top-column mt-3 elementor-element elementor-element-620926c"
                 data-id="620926c" data-element_type="column">
                 <div class="elementor-widget-wrap elementor-element-populated">
                     <div class="elementor-element elementor-element-d1bbd12  elementor-widget elementor-widget-printpark_hero_title"
@@ -912,10 +934,43 @@
         class="elementor-section elementor-top-section elementor-element elementor-element-deb1ecb elementor-section-boxed elementor-section-height-default elementor-section-height-default"
         data-id="deb1ecb" data-element_type="section">
         <div class="elementor-container elementor-column-gap-default">
-          
-            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-620926c"
-                data-id="620926c" data-element_type="column">
+        <div class="elementor-column order-md-2 elementor-col-50 elementor-top-column elementor-element elementor-element-84f6fd6"
+                data-id="84f6fd6" data-element_type="column">
                 <div class="elementor-widget-wrap elementor-element-populated">
+                    <div class="elementor-element elementor-element-6b4ef5a elementor-widget elementor-widget-printpark_float_image"
+                        data-id="6b4ef5a" data-element_type="widget"
+                        data-widget_type="printpark_float_image.default">
+                        <div class="elementor-widget-container">
+
+
+
+                            <section class="weare-section p-0 m-0">
+                                <div class="image-column">
+                                    <div class="image-box">
+                                        <div class="image-shape">
+                                            <div class="shape-1"
+                                              >
+                                            </div>
+                                            <div class="shape-2"></div>
+                                            <!-- <div class="shape-3"></div> -->
+                                        </div>
+                                        <figure class="image"><img decoding="async"
+                                                src="./wp-content/uploads/2023/08/mission.png"
+                                                alt="Awesome Image"></figure>
+                                       
+                                    </div>
+                                </div>
+                            </section>
+
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="elementor-column order-md-1 elementor-col-50 elementor-top-column elementor-element elementor-element-620926c"
+                data-id="620926c" data-element_type="column">
+                <div class="elementor-widget-wrap  elementor-element-populated">
                     <div class="elementor-element elementor-element-d1bbd12 elementor-widget elementor-widget-printpark_hero_title"
                         data-id="d1bbd12" data-element_type="widget"
                         data-widget_type="printpark_hero_title.default">
@@ -1102,40 +1157,7 @@
                     </div>
                 </div>
             </div>
-            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-84f6fd6"
-                data-id="84f6fd6" data-element_type="column">
-                <div class="elementor-widget-wrap elementor-element-populated">
-                    <div class="elementor-element elementor-element-6b4ef5a elementor-widget elementor-widget-printpark_float_image"
-                        data-id="6b4ef5a" data-element_type="widget"
-                        data-widget_type="printpark_float_image.default">
-                        <div class="elementor-widget-container">
-
-
-
-                            <section class="weare-section p-0 m-0">
-                                <div class="image-column">
-                                    <div class="image-box">
-                                        <div class="image-shape">
-                                            <div class="shape-1"
-                                              >
-                                            </div>
-                                            <div class="shape-2"></div>
-                                            <!-- <div class="shape-3"></div> -->
-                                        </div>
-                                        <figure class="image"><img decoding="async"
-                                                src="./wp-content/uploads/2023/08/mission.png"
-                                                alt="Awesome Image"></figure>
-                                       
-                                    </div>
-                                </div>
-                            </section>
-
-
-
-                        </div>
-                    </div>
-                </div>
-            </div>
+           
         </div>
     </section>
     <section
@@ -1387,29 +1409,7 @@
                                                                 </div>
                                                             </div>
                                                     </div>
-                                                    
-                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
-                                                    <div class="team-block-two">
-                                                                <div class="inner-box te-team">
-                                                                    <figure class="image-box"><img fetchpriority="high"
-                                                                            decoding="async" width="358" height="440"
-                                                                            src="./wp-content/uploads/2023/08/team/anop-removebg-preview.png"
-                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
-                                                                            alt=""></figure>
-                                                                    <div class="text-box">
-                                                                        <h3 class="te-title">Anoop Nanekar</h3>
-                                                                    </div>
-                                                                    <div class="overlay-content">
-                                                                        <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Anoop Nanekar</a></h3>
-                                                                        <span
-                                                                            class="designation te-designation"> Associate Product Lead</span>
-                                                                       
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                    </div>
-                                                    
+                                                                                                 
 
 
                                                     <div class="col-lg-3 col-md-6 col-sm-12 team-block">
@@ -1427,7 +1427,7 @@
                                                                         <h3 class="te-title"><a
                                                                                 href="./bertram-irvin/index.html">Ashwini Chaudhary</a></h3>
                                                                         <span
-                                                                            class="designation te-designation">SR. HR EXECUTIVE</span>
+                                                                            class="designation te-designation">HR EXECUTIVE</span>
                                                                        
                                                                     </div>
                                                                 </div>
@@ -1469,7 +1469,7 @@
                                                                         <h3 class="te-title"><a
                                                                                 href="./bertram-irvin/index.html">Chaitali Mali</a></h3>
                                                                         <span
-                                                                            class="designation te-designation">JR. HR EXECUTIVE</span>
+                                                                            class="designation te-designation">HR EXECUTIVE</span>
                                                                        
                                                                     </div>
                                                                 </div>
@@ -1960,6 +1960,29 @@
                                                                 </div>
                                                             </div>
                                                     </div>
+
+                                                    <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                                                    <div class="team-block-two">
+                                                                <div class="inner-box te-team">
+                                                                    <figure class="image-box"><img fetchpriority="high"
+                                                                            decoding="async" width="358" height="440"
+                                                                            src="./wp-content/uploads/2023/08/team/anop-removebg-preview.png"
+                                                                            class="attachment-printpark_370x440 size-printpark_370x440 wp-post-image"
+                                                                            alt=""></figure>
+                                                                    <div class="text-box">
+                                                                        <h3 class="te-title">Anoop Nanekar</h3>
+                                                                    </div>
+                                                                    <div class="overlay-content">
+                                                                        <h3 class="te-title"><a
+                                                                                href="./bertram-irvin/index.html">Anoop Nanekar</a></h3>
+                                                                        <span
+                                                                            class="designation te-designation"> Associate Product Lead</span>
+                                                                       
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                    </div>
+
                                                     <div class="col-lg-3 col-md-6 col-sm-12 team-block">
                                                     <div class="team-block-two">
                                                                 <div class="inner-box te-team">
@@ -2428,7 +2451,7 @@
                                                         <div class="inner-box bn-project-box">
                                                             <figure class="image-box">
                                                                 <img fetchpriority="high" decoding="async" width="370"
-                                                                    height="570"
+                                                                    height="270"
                                                                     src="./wp-content/uploads/2023/08/fun @ sumago/birthday/birthday (1).jpg"
                                                                     class="attachment-printpark_370x570 size-printpark_370x570 wp-post-image"
                                                                     alt="">
@@ -2456,7 +2479,7 @@
                                                     <div class="project-block-one">
                                                         <div class="inner-box bn-project-box">
                                                             <figure class="image-box">
-                                                                <img decoding="async" width="370" height="570"
+                                                                <img decoding="async" width="370" height="270"
                                                                     src="./wp-content/uploads/2023/08/fun @ sumago/birthday/birthday (2).jpg"
                                                                     class="attachment-printpark_370x570 size-printpark_370x570 wp-post-image"
                                                                     alt="">
@@ -2465,15 +2488,16 @@
                                                         </div>
                                                     </div>
                                                 </div>
+                                               
                                                 <div
                                                     class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all garment-printing  ">
                                                     <div class="project-block-one">
                                                         <div class="inner-box bn-project-box">
                                                             <figure class="image-box">
                                                                 <img loading="lazy" decoding="async" width="370"
-                                                                    height="570"
-                                                                    src="./wp-content/uploads/2023/08/fun @ sumago/birthday/birthday (3).jpg"
-                                                                    class="attachment-printpark_370x570 size-printpark_370x570 wp-post-image"
+                                                                    height="270"
+                                                                    src="./wp-content/uploads/2023/08/fun @ sumago/birthday/birthday (9).jpg"
+                                                                    class="attachment-printpark_370x270 size-printpark_370x270 wp-post-image"
                                                                     alt="">
                                                             </figure>
                                                            
@@ -2487,8 +2511,8 @@
                                                             <figure class="image-box">
                                                                 <img loading="lazy" decoding="async" width="370"
                                                                     height="270"
-                                                                    src="./wp-content/uploads/2023/08/fun @ sumago/birthday/birthday (9).jpg"
-                                                                    class="attachment-printpark_370x270 size-printpark_370x270 wp-post-image"
+                                                                    src="./wp-content/uploads/2023/08/fun @ sumago/birthday/birthday (3).jpg"
+                                                                    class="attachment-printpark_370x570 size-printpark_370x570 wp-post-image"
                                                                     alt="">
                                                             </figure>
                                                            
@@ -2676,7 +2700,7 @@
                                                     </div>
                                                 </div>
                                                 <div
-                                                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column  Navratri ">
+                                                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all Navratri ">
                                                     <div class="project-block-one">
                                                         <div class="inner-box bn-project-box">
                                                             <figure class="image-box">
@@ -2706,7 +2730,7 @@
                                                     </div>
                                                 </div>
                                                 <div
-                                                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column  Navratri ">
+                                                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all Navratri ">
                                                     <div class="project-block-one">
                                                         <div class="inner-box bn-project-box">
                                                             <figure class="image-box">
@@ -2720,7 +2744,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div
+                                                <!-- <div
                                                     class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column  Navratri ">
                                                     <div class="project-block-one">
                                                         <div class="inner-box bn-project-box">
@@ -2734,9 +2758,9 @@
                                                             
                                                         </div>
                                                     </div>
-                                                </div>
+                                                </div> -->
                                                 <div
-                                                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column  Navratri ">
+                                                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all Navratri ">
                                                     <div class="project-block-one">
                                                         <div class="inner-box bn-project-box">
                                                             <figure class="image-box">
@@ -2751,7 +2775,7 @@
                                                     </div>
                                                 </div>
                                                 <div
-                                                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column  Navratri ">
+                                                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all Navratri ">
                                                     <div class="project-block-one">
                                                         <div class="inner-box bn-project-box">
                                                             <figure class="image-box">
@@ -2766,7 +2790,7 @@
                                                     </div>
                                                 </div>
                                                 <div
-                                                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column  Navratri ">
+                                                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all Navratri ">
                                                     <div class="project-block-one">
                                                         <div class="inner-box bn-project-box">
                                                             <figure class="image-box">
@@ -2875,7 +2899,7 @@
                             <div class="image-content">
                                 <div class="post-info text-center">
                                     <h6 class="te-category ">
-                                        <a href="./../category/digital/index.html" rel="category tag">Sweta Jade </a>
+                                        <a href="./../category/digital/index.html" rel="category tag">Shweta Jade </a>
                                     </h6>  <span class="post-date te-meta">
                                         <i  class="flaticon-asterisks"></i>[UI/UX]</span>                                
                                                               </div>
@@ -2906,7 +2930,7 @@
                                     <h6 class="te-category ">
                                         <a href="./../category/digital/index.html" rel="category tag">Savita Hajare </a>
                                     </h6>  <span class="post-date te-meta">
-                                        <i  class="flaticon-asterisks"></i>[Full Stack]</span>                                
+                                        <i  class="flaticon-asterisks"></i>[ Team Lead]</span>                                
                                                               </div>
                                                                 <div class="share-box">
                      
@@ -2993,7 +3017,7 @@
                                     <h6 class="te-category ">
                                         <a href="./../category/digital/index.html" rel="category tag"> Vivek Patil </a>
                                     </h6>  <span class="post-date te-meta">
-                                        <i  class="flaticon-asterisks"></i>[Full Stack]</span>                                
+                                        <i  class="flaticon-asterisks"></i>[Associate Team Lead]</span>                                
                                                               </div>
                                                                 <div class="share-box">
                      
@@ -3080,7 +3104,7 @@
                                     <h6 class="te-category ">
                                         <a href="./../category/digital/index.html" rel="category tag">Rohini Gaikwad </a>
                                     </h6>  <span class="post-date te-meta">
-                                        <i  class="flaticon-asterisks"></i>[SOFTWARE TESTER]</span>                                
+                                        <i  class="flaticon-asterisks"></i>[Business Analyst]</span>                                
                                                               </div>
                                                                 <div class="share-box">
                      
@@ -3136,7 +3160,8 @@
 <div class="image-box">
 <div class="image-shape">
 <div class="shape-1"></div>
-<div class="shape-2"><img decoding="async" src="./../../wp-content/uploads/2023/08/shape-41.png" alt="" width="149" height="120" class="alignnone size-full wp-image-360"></div>
+<div class="shape-2">
+    <img decoding="async" src="./wp-content/uploads/2023/08/shape-41.png" alt="" width="149" height="120" class="alignnone size-full wp-image-360"></div>
 </div>
 <figure class="image"><img fetchpriority="high" decoding="async" src="./wp-content/uploads/2023/08/ABOUT US (5) (1).jpg" alt="" width="539" height="393" class="alignnone size-medium wp-image-359"></figure>
 </div>

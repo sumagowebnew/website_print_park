@@ -30,8 +30,8 @@
                 "margin": 1,
                 "nav": true,
                 "dots": false,
-                "smartSpeed": 500,
-                "autoplayTimeout": 2500,
+                "smartSpeed": 1000,
+                "autoplayTimeout": 3500,
                 "navText": ["<span class=\"flaticon-arrow-up\"></span>","<span class=\"flaticon-arrow-down\"></span>"],
                 "responsive": {
                     "0": {
@@ -171,7 +171,7 @@
 
     <!-- Award start -->
     <section
-        class="elementor-section elementor-top-section elementor-element elementor-element-9a1564a elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+        class="elementor-section elementor-top-section destopaward elementor-element elementor-element-9a1564a elementor-section-full_width elementor-section-height-default elementor-section-height-default"
         data-id="9a1564a" data-element_type="section"
         data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
         <div class="elementor-container elementor-column-gap-no">
@@ -365,6 +365,22 @@
         </div>
     </section>
     <!-- Award end -->
+     <!-- Award start -->
+     <section
+        class="elementor-section elementor-top-section mobileaward elementor-element elementor-element-9a1564a elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+        data-id="9a1564a" data-element_type="section"
+        data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+        <div class="elementor-container elementor-column-gap-no">
+            <div class=" elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-633ebfb"
+                data-id="633ebfb" data-element_type="column">
+                <div class="elementor-widget-wrap elementor-element-populated">
+                <img decoding="async" src="./wp-content/uploads/2023/08/AWARD BANNER.png" alt="Awesome Image">
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Award end -->
+
 
     <!-- Que & Ans start-->
     <section id="quebak"
@@ -521,7 +537,7 @@
                                         <div class="text-box">
                                             <!-- <p class="te-text">There are many variations of passages of lorem
                                                         ipsum available.</p> -->
-                                            <a href="./projects-01/index.php" class="theme-btn btn-one">Start Your
+                                            <a href="#" class="theme-btn btn-one">Start Your
                                                 Project</a>
                                         </div>
                                     </div>
@@ -556,7 +572,7 @@
                                                         <span class="count-text te-count" data-speed="1500"
                                                             data-stop="780">780</span>
                                                     </div>
-                                                    <p class="te-text">Satisfied clients</p>
+                                                    <p class="te-text">Satisfied Clients</p>
                                                     <div class="icon-box te-icon">
                                                         <img src="./wp-content/themes/printpark/assets/images/shape/client.png" width="40">
                                                         <!--<i class="flaticon-poster"></i>-->
@@ -577,7 +593,7 @@
                                                         <span class="count-text te-count" data-speed="1500"
                                                             data-stop="1850">1850</span>
                                                     </div>
-                                                    <p class="te-text">Projects done</p>
+                                                    <p class="te-text">Projects Done</p>
                                                     <div class="icon-box te-icon">
                                                         <i class="flaticon-user"></i>
 
@@ -631,7 +647,7 @@
                                                             data-stop="75">75</span><span
                                                             class="symble te-symble"></span>
                                                     </div>
-                                                    <p class="te-text">Awards won</p>
+                                                    <p class="te-text">Awards Won</p>
                                                     <div class="icon-box te-icon">
                                                         <img src="./wp-content/themes/printpark/assets/images/shape/AWRAD.png" width="30">
                                                         <!--<i class="flaticon-user"></i>-->
@@ -721,11 +737,14 @@
 
                             <ul class="te-icon-box highlights-list clearfix">
                                 <li class="te-icon">
-                                    <i><img src="./wp-content/themes/printpark/assets/images/shape/custom SOFTWARE.png" width="20"></i> <a
+                                    <i><img src="./wp-content/themes/printpark/assets/images/shape/custom SOFTWARE.png" width="20"></i> 
+                                    <a
                                         class="te-title"
-                                        href=""
-                                        rel="&quot;nofollow&quot;"><span
-                                            class="te-title">Custom Software Development</span></a>
+                                 
+                                        rel="&quot;nofollow&quot;">
+                                        <span
+                                            class="te-title">Custom Software Development</span>
+                                        </a>
                                 </li>
                             </ul>
 
@@ -741,7 +760,7 @@
                                 <li class="te-icon">
                                     <i><img src="./wp-content/themes/printpark/assets/images/shape/MOBILE APPLICATION.png" width="20" style="height:29px"></i> <a
                                         class="te-title"
-                                        href=""
+                                      
                                         rel="&quot;nofollow&quot;"><span
                                             class="te-title">Mobile Application</span></a>
                                 </li>
@@ -759,7 +778,6 @@
                             <ul class="te-icon-box highlights-list clearfix">
                                 <li class="te-icon">
                                     <i><img src="./wp-content/themes/printpark/assets/images/shape/WEB DEVE.png" width="20"></i> <a class="te-title"
-                                        href=""
                                         rel="&quot;nofollow&quot;"><span
                                             class="te-title">Website Design and Development</span></a>
                                 </li>
@@ -778,7 +796,6 @@
                                 <li class="te-icon">
                                     <i><img src="./wp-content/themes/printpark/assets/images/shape/DIGITAL MARKETING.png" width="25"></i></i> <a
                                         class="te-title"
-                                        href=""
                                         rel="&quot;nofollow&quot;"><span
                                             class="te-title">Digital Marketing</span></a>
                                 </li>
@@ -795,7 +812,6 @@
                             <ul class="te-icon-box highlights-list clearfix">
                                 <li class="te-icon">
                                     <i><img src="./wp-content/themes/printpark/assets/images/shape/SEO.png" width="25"></i> <a class="te-title"
-                                        href=""
                                         rel="&quot;nofollow&quot;"><span
                                             class="te-title">SEO Services</span></a>
                                 </li>
@@ -813,7 +829,6 @@
                                 <li class="te-icon">
                                     <i><img src="./wp-content/themes/printpark/assets/images/shape/BUSNIES AUTOMATION.png" width="25"></i> <a
                                         class="te-title"
-                                        href=""
                                         rel="&quot;nofollow&quot;"><span
                                             class="te-title">Business Automation Tools</span></a>
                                 </li>
@@ -831,7 +846,6 @@
                                 <li class="te-icon">
                                     <i><img src="./wp-content/themes/printpark/assets/images/shape/custom SOFTWARE.png" width="20"></i></i> <a
                                         class="te-title"
-                                        href=""
                                         rel="&quot;nofollow&quot;"><span class="te-title">AI
                                             and Machine Learning</span></a>
                                 </li>
@@ -1994,7 +2008,7 @@ GET A QUOTE
   <div class="modal-content">
         <div class="modal-header">
           <h4 class="modal-title">GET A QUOTE</h4>
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-bs-dismiss="modal">×</button>
         </div>
         <div class="modal-body">
             <form method="post" name="myForm" onsubmit="return quoteRequest();">
@@ -2057,7 +2071,7 @@ GET A QUOTE
             </form>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
         </div>
       </div>
   </div>
@@ -2089,7 +2103,7 @@ GET A QUOTE
                                                 <div class="icon-box te-icon">
                                                     <i class="flaticon-message"></i>
                                                 </div>
-                                                <p class="te-text">Do you have a project to work? <br>send your details.</p>
+                                                <p class="te-text">Do you have a project to work? <br>Send your details.</p>
                                                 <h4 class="te-subtitle"><a
                                                         href="mailto:info@sumagoinfotech.com">info@sumagoinfotech.com</a></h4>
                                                 <!-- <h4 class="te-subtitle"><a
@@ -3636,18 +3650,18 @@ GET A QUOTE
         <div class="elementor-container elementor-column-gap-no">
             <div class=" elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-633ebfb"
                 data-id="633ebfb" data-element_type="column">
-                <div class="elementor-widget-wrap elementor-element-populated"
+                <div class="elementor-widget-wrap elementor-element-populated p-2"
                     style="  background-image:url(./wp-content/uploads/2023/08/call/1827.png);">
                     
-                    <div class="col-lg-7 col-md-12 d-grid align-items-center justify-content-center">
+                    <div class="col-lg-7 col-md-12 d-grid text-center align-items-center justify-content-center">
                         <h3><b><a class="ser-title mt-4" style="color:black">Leverage our expertise to navigate complex IT<br>landscapes and overcome technical hurdles.</a></b></h3>
                         <!--<h3><b><a class="ser-title" style="color:black">Partner with IT experts to achieve your goals</a></b></h3>-->
                         
-                        <button style=" width:200px; border-radius: 30px;" class="bg-white p-3 mb-4">
+                        <button style=" width:200px; border-radius: 30px; margin-left: 60px;" class="bg-white  p-3 mb-4">
                             <a href="tel:+91 8530388815"><h4 class="fw-bold">Contact us</h4></a>
                         </button>
                     </div>
-                    <div class="col-lg-5 col-md-12">
+                    <div class="col-lg-5 text-center col-md-12">
 
                         <img decoding="async" class="" style="width:60%" src="./wp-content/uploads/2023/08/call/contact.png"
                             alt="Awesome Image">
@@ -3701,7 +3715,6 @@ GET A QUOTE
                             <ul class="te-icon-box highlights-list clearfix">
                                 <li class="te-icon">
                                     <i><img src="./wp-content/themes/printpark/assets/images/shape/1.png" width="25" style="margin-top: -11px;"></i> <a class="te-title"
-                                        href=""
                                         rel="&quot;nofollow&quot;"><span
                                             class="te-title">Maintaining work-life balance</span></a>
                                 </li>
@@ -3719,7 +3732,6 @@ GET A QUOTE
                                 <li class="te-icon">
                                     <i><img src="./wp-content/themes/printpark/assets/images/shape/2.png" width="25" style="margin-top: -11px;"></i> <a
                                         class="te-title"
-                                        href=""
                                         rel="&quot;nofollow&quot;"><span
                                             class="te-title">Optimum energy utilization and working
                                             capabilities</span></a>
@@ -3738,7 +3750,6 @@ GET A QUOTE
                                 <li class="te-icon">
                                     <i><img src="./wp-content/themes/printpark/assets/images/shape/3.png" width="20" style="margin-top: -11px;"></i></i> <a
                                         class="te-title"
-                                        href=""
                                         rel="&quot;nofollow&quot;"><span
                                             class="te-title">Have better time management strategies at hand</span></a>
                                 </li>
@@ -3756,7 +3767,6 @@ GET A QUOTE
                                 <li class="te-icon">
                                     <i><img src="./wp-content/themes/printpark/assets/images/shape/4.png" width="20" style="margin-top: -11px;"></i></i> <a
                                         class="te-title"
-                                        href=""
                                         rel="&quot;nofollow&quot;"><span
                                             class="te-title">Prioritization of work </span></a>
                                 </li>

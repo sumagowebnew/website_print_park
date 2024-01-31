@@ -359,9 +359,9 @@
                                                     </p>
                                                     <h4 class="te-subtitle">Third Floor, Gajra Chambers, Mumbai - Agra National Hwy, Kamod Nagar, Indira Nagar, Nashik, Maharashtra 422009.
                                                     </h4>
-                                                    <h6><a href="mailto:info@sumagoinfotech.com" >info@sumagoinfotech.com</a></h6>
+                                                    <h6 class="text-lowercase"><a href="mailto:info@sumagoinfotech.com" >info@sumagoinfotech.com</a></h6>
                                                     <h6><a href="tel:+918530388815">+91 8530388815</a></h6>
-                                                    <h6><a href=""
+                                                    <h6><a href="https://maps.app.goo.gl/FnzfAoExzBH4AwE39"
                                                             target="&quot;_blank&quot;" rel="&quot;nofollow&quot;"><i
                                                                 class="flaticon-arrow-right"></i>View On Map</a></h6>
                                                 </div>
@@ -390,9 +390,9 @@
                                                     </p>
                                                     <h4 class="te-subtitle">The Avenue, Fourth Floor, Behind Prakash Petrol Pump, Govind Nagar, Nashik, Maharashtra 422009.
                                                     </h4>
-                                                    <h6><a href="mailto:info@sumagoinfotech.com">info@sumagoinfotech.com</a></h6>
+                                                    <h6 class="text-lowercase"><a href="mailto:info@sumagoinfotech.com">info@sumagoinfotech.com</a></h6>
                                                     <h6><a href="tel:+918408084888">+91 8408084888</a></h6>
-                                                    <h6><a href=""
+                                                    <h6><a href="https://maps.app.goo.gl/KEyFqLC59pYGqcwy9"
                                                             target="&quot;_blank&quot;" rel="&quot;nofollow&quot;"><i
                                                                 class="flaticon-arrow-right"></i>View On Map</a></h6>
                                                 </div>
@@ -421,9 +421,9 @@
                                                     </p>
                                                     <h4 class="te-subtitle">Third Floor, Kakade Center Port, University Rd, near E-Square, Premnagar, Shivajinagar, Pune, Maharashtra 411016.
                                                     </h4>
-                                                    <h6><a href="mailto:info@sumagoinfotech.com" >info@sumagoinfotech.com</a></h6>
+                                                    <h6 class="text-lowercase"><a href="mailto:info@sumagoinfotech.com" >info@sumagoinfotech.com</a></h6>
                                                     <h6><a href="tel:+917263084881" >+91 7263084881</a></h6>
-                                                    <h6><a href=""
+                                                    <h6><a href="https://maps.app.goo.gl/SshnZN7UXz888vk59"
                                                             target="&quot;_blank&quot;" rel="&quot;nofollow&quot;"><i
                                                                 class="flaticon-arrow-right"></i>View On Map</a></h6>
                                                 </div>

@@ -737,8 +737,8 @@
                                 Sample</a>
                         </li> -->
                    <!-- </ul>-->
-                    <div class="text col-sm-12 col-md-4 col-lg-4">
-                        <p><i class="flaticon-incoming-call"></i><span>Call Us</span> <strong>Now:</strong>
+                    <div class="text text-center col-sm-12 col-md-4 col-lg-3">
+                        <p><span><i class="flaticon-incoming-call"></i> Call Us</span> <strong>Now:</strong>
             
                         <br>
                         <ul>
@@ -752,7 +752,7 @@
                     <div class="col-sm-12 col-md-5 col-lg-5 d-grid justify-content-center ">
                         <figure class="logo"><a href="./index.php" title="WordPress Printing"><img style="height: 60px; width:450px" src="./wp-content/uploads/2023/08/SUMAGO Logo (2) (1).png" alt="logo"></a>
                     </div>
-                     <div class="text col-sm-12 col-md-3 col-lg-3">
+                     <div class="text2 col-sm-12 col-md-3 col-lg-3">
                         <ul class="info-list">
                             <li>
                                 <i><img src="./wp-content/themes/printpark/assets/images/shape/email.png" width="20px" height="20px" style="margin-top:-8px"></i><a
@@ -760,8 +760,7 @@
                                 </li></ul>
                                 <ul>
                                <li>
-                                <p><i class="flaticon-incoming-call" style="color:black;"></i>&nbsp;
-                                 <a href="tel:+91 726 308 4881"><strong>+91 726 308 4881</strong></a>
+                                <p><span><i class="flaticon-incoming-call" style="color:black;"></i>&nbsp; <a href="tel:+91 726 308 4881"><strong>+91 726 308 4881</strong></a></span></p>
                             </li>
                         </ul>
                         
@@ -795,7 +794,7 @@
             <!-- header-lower -->
             <div class="header-lower">
                 <div class="outer-container">
-                    <div class="outer-box">
+                    <div class="outer-box outer-box1">
                         <div class="left-column">
                             <div class="logo-box">
                                <div class="shape"
