@@ -168,6 +168,7 @@
   .menu-area .mobile-nav-toggler {
     display: block;
     padding: 10px;
+    margin-left: 58px;
   }
 
   .megamenu ul li:first-child{
@@ -370,7 +371,7 @@
 
   .weare-section .image-box{
     margin-right: 0px;
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
   }
 
   .project-style-two .owl-nav{
@@ -570,8 +571,9 @@
     display: none;
   }
   .banner-carousel .content-box h2{
-    font-size: 40px;
+    font-size: 30px;
     line-height: 50px;
+    align-items: center;
   }
 
   .banner-carousel .content-box h2 span{
@@ -583,7 +585,7 @@
   }
 
   .banner-section .banner-carousel .slide-item{
-    padding: 90px 0px 100px 0px;
+    padding: 10px 0px 50px 0px;
   }
 
   .sec-title h2{
@@ -835,7 +837,7 @@
   .checkout-page-section,
   .blog-grid,
   .sidebar-page-container{
-    padding: 0px 0px;
+    padding: 15px 0px;
   }
 
   .shop-details .product-discription .tab-btn{
@@ -958,7 +960,7 @@
 		margin:0px;
 	}
   .weare-section .image-box .image img{
-    /* width: 100%; */
+    width: 95%;
     margin-left: 1px; 
   }
   .page-title .auto-container .content-box{

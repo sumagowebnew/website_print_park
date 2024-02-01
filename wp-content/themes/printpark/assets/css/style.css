@@ -110,7 +110,7 @@ body {
 }
 
 .desktopcorevalue{
-  margin-left: 45px;
+  margin-left: 50px;
 }
 
 
@@ -7941,7 +7941,7 @@ div#mCSB_1_container{
 .testimonial-style-three .owl-nav{
   position: absolute;
   left: 0px;
-  bottom: -92px;
+  bottom: -20px;
   max-width: 770px;
   width: 100%;
   margin: 0 auto;
@@ -7966,8 +7966,8 @@ div#mCSB_1_container{
 .testimonial-style-three .owl-dots{
   position: absolute;
   left: 70px;
-  bottom: -94px;
-  min-height: 40px;
+  bottom: -40px;
+  min-height: 60px;
   counter-reset: slides-num;
 }
 
