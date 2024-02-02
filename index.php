@@ -537,7 +537,7 @@
                                         <div class="text-box">
                                             <!-- <p class="te-text">There are many variations of passages of lorem
                                                         ipsum available.</p> -->
-                                            <a href="#" class="theme-btn btn-one">Start Your
+                                            <a class="theme-btn btn-one">Start Your
                                                 Project</a>
                                         </div>
                                     </div>
