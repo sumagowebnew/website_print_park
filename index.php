@@ -407,7 +407,7 @@
                                             <div class="inner-box te-blog">
                                                 <div class="image-box">
                                                     <figure class="image"><a
-                                                            href="#"><img
+                                                           ><img
                                                                 loading="lazy" decoding="async" width="350" height="240"
                                                                 src="./wp-content/uploads/2023/08/question/bug.jpg"
                                                                 class="attachment-printpark_350x270 size-printpark_350x270 wp-post-image"
@@ -417,7 +417,7 @@
                                                 <div class="lower-content">
                                                     <h3 class="te-title">
                                                         <a
-                                                            href="./2023/08/22/how-do-you-know-if-your-product-has-hail-damage/index.php">
+                                                           >
                                                             Do you face frequent website bugs on your
                                                             website?</a>
                                                     </h3>
@@ -432,7 +432,7 @@
                                             <div class="inner-box te-blog">
                                                 <div class="image-box">
                                                     <figure class="image"><a
-                                                            href="#"><img
+                                                            ><img
                                                                 loading="lazy" decoding="async" width="350" height="240"
                                                                 src="./wp-content/uploads/2023/08/question/l certifications1.jpg"
                                                                 class="attachment-printpark_350x270 size-printpark_350x270 wp-post-image"
@@ -442,7 +442,7 @@
                                                 <div class="lower-content">
                                                     <h3 class="te-title">
                                                         <a
-                                                            href="#">Is
+                                                           >Is
                                                             the loading speed of your website fast? </a>
                                                     </h3>
                                                    
@@ -456,7 +456,7 @@
                                             <div class="inner-box te-blog">
                                                 <div class="image-box">
                                                     <figure class="image"><a
-                                                            href="#"><img
+                                                            ><img
                                                                 loading="lazy" decoding="async" width="350" height="240"
                                                                 src="./wp-content/uploads/2023/08/question/responsive.jpg"
                                                                 class="attachment-printpark_350x270 size-printpark_350x270 wp-post-image"
@@ -466,7 +466,7 @@
                                                 <div class="lower-content">
                                                     <h3 class="te-title">
                                                         <a
-                                                            href="#">Is
+                                                            >Is
                                                             your website’s UI responsive?</a>
                                                     </h3>
                                                   
@@ -480,7 +480,7 @@
                                             <div class="inner-box te-blog">
                                                 <div class="image-box">
                                                     <figure class="image"><a
-                                                            href="#"><img
+                                                            ><img
                                                                 loading="lazy" decoding="async" width="350" height="240"
                                                                 src="./wp-content/uploads/2023/08/question/l certifications1.jpg
                                                                                         "
@@ -491,7 +491,7 @@
                                                 <div class="lower-content">
                                                     <h3 class="te-title">
                                                         <a
-                                                            href="#">Do
+                                                            >Do
                                                             you have a valid SSL certificate?</a>
                                                     </h3>
                                                    
@@ -1150,11 +1150,11 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="link-btn"><a
-                                                                        href=""><i
+                                                                       ><i
                                                                             class="flaticon-arrow-right"></i></a>
                                                                 </div>
                                                                 <h3><a class="ser-title"
-                                                                        href="">Healthcare</a>
+                                                                        >Healthcare</a>
                                                                 </h3>
                                                                 <!-- <p class="ser-text">Take a trivial example,
                                                                             which of us ever undertakes
@@ -1183,11 +1183,11 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="link-btn"><a
-                                                                        href=""><i
+                                                                        ><i
                                                                             class="flaticon-arrow-right"></i></a>
                                                                 </div>
                                                                 <h3><a class="ser-title"
-                                                                        href="">Travel
+                                                                       >Travel
                                                                         and Hospitality</a></h3>
                                                                 <!-- <p class="ser-text">Cases are perfectly simple
                                                                             and easy to distinguish obligations
@@ -1216,11 +1216,11 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="link-btn"><a
-                                                                        href=""><i
+                                                                        ><i
                                                                             class="flaticon-arrow-right"></i></a>
                                                                 </div>
                                                                 <h3><a class="ser-title"
-                                                                        href="">Finance
+                                                                        >Finance
                                                                         and Banking</h3>
                                                                 <!-- <p class="ser-text">Cases are perfectly simple
                                                                             and easy to distinguish obligations
@@ -1246,11 +1246,11 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="link-btn"><a
-                                                                        href=""><i
+                                                                        ><i
                                                                             class="flaticon-arrow-right"></i></a>
                                                                 </div>
                                                                 <h3><a class="ser-title"
-                                                                        href="">E-commerce</a>
+                                                                        >E-commerce</a>
                                                                 </h3>
                                                                 <!-- <p class="ser-text">Cases are perfectly simple
                                                                             and easy to distinguish obligations
@@ -1277,11 +1277,11 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="link-btn"><a
-                                                                        href=""><i
+                                                                        ><i
                                                                             class="flaticon-arrow-right"></i></a>
                                                                 </div>
                                                                 <h3><a class="ser-title"
-                                                                        href="">Manufacturing</a>
+                                                                        >Manufacturing</a>
                                                                 </h3>
                                                                 <!-- <p class="ser-text">Cases are perfectly simple
                                                                             and easy to distinguish obligations
@@ -1308,11 +1308,11 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="link-btn"><a
-                                                                        href=""><i
+                                                                        ><i
                                                                             class="flaticon-arrow-right"></i></a>
                                                                 </div>
                                                                 <h3><a class="ser-title"
-                                                                        href="">
+                                                                        >
                                                                         Education</a></h3>
                                                                 <!-- <p class="ser-text">Nor again is there anyone
                                                                             who loves or pursues or&hellip;</p> -->
@@ -1338,11 +1338,11 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="link-btn"><a
-                                                                        href=""><i
+                                                                        ><i
                                                                             class="flaticon-arrow-right"></i></a>
                                                                 </div>
                                                                 <h3><a class="ser-title"
-                                                                        href="">Government</a>
+                                                                       >Government</a>
                                                                 </h3>
                                                                 <!-- <p class="ser-text">Nor again is there anyone
                                                                             who loves or pursues or&hellip;</p> -->
@@ -1368,11 +1368,11 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="link-btn"><a
-                                                                        href=""><i
+                                                                       ><i
                                                                             class="flaticon-arrow-right"></i></a>
                                                                 </div>
                                                                 <h3><a class="ser-title"
-                                                                        href="">
+                                                                        >
                                                                         Retail</a></h3>
                                                                 <!-- <p class="ser-text">Nor again is there anyone
                                                                             who loves or pursues or&hellip;</p> -->
@@ -1399,11 +1399,11 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class="link-btn"><a
-                                                                        href=""><i
+                                                                        ><i
                                                                             class="flaticon-arrow-right"></i></a>
                                                                 </div>
                                                                 <h3><a class="ser-title"
-                                                                        href="">
+                                                                       >
                                                                         Logistics </a></h3>
                                                                 <!-- <p class="ser-text">Nor again is there anyone
                                                                             who loves or pursues or&hellip;</p> -->
@@ -2062,7 +2062,7 @@ GET A QUOTE
                 <!--    <img src="captcha.php" id="capt">-->
                     
                 <!--</div>-->
-                <div  style="    text-align: left;" class="form-group">
+                <div  style="    text-align: left;" class="form-group mt-4">
                     <center>
                         <input class="btn btn-success btn-lg" type="submit" id="quoteReq" name="submit" value="Submit">
                         <input class="btn btn-danger btn-lg" type="reset" name="btn_reset" value="Clear">

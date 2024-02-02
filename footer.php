@@ -223,7 +223,7 @@
                     <!--    <a title="Pricing &#038; Plan"  class="hvr-underline-from-left1"-->
                     <!--        data-scroll data-options="easing: easeOutQuart">Pricing &#038; Plan</a></li>-->
                     <li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97">
-                        <a title="Team" class="hvr-underline-from-left1" data-scroll href="team.php"
+                        <a title="Team" class="hvr-underline-from-left1" data-scroll href="about.php"
                             data-options="easing: easeOutQuart">Team</a></li>
                 </ul>
             </div>
@@ -247,7 +247,7 @@
 
 <script>
 function myFunction() {
-  alert("Form submitted Successfully...!!!");
+  alert("please fill the all fields...!!!");
 }
 </script>
 

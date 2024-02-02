@@ -12255,7 +12255,7 @@ div#mCSB_1_container{
   left: 20px;
   bottom: 20px;
   width: calc(100% - 40px);
-  padding: 13px 15px;
+  padding: 10px 10px;
   text-align: center;
   border-radius: 30px;
   transition: all 500ms ease;
@@ -12271,7 +12271,7 @@ div#mCSB_1_container{
   bottom: 20px;
   width: calc(100% - 40px);
   border-radius: 25px;
-  padding: 23px 15px 24px 15px;
+  padding: 15px 15px 15px 15px;
   z-index: 1;
   transform: scaleY(0);
   transform-origin: bottom center;

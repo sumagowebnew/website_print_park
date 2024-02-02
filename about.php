@@ -1222,7 +1222,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Bertram
+                                                                                >Bertram
                                                                                 Irvin</a></h3>
                                                                         <span
                                                                             class="designation te-designation">President</span>
@@ -1245,7 +1245,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Sonali Gorade</a></h3>
+                                                                                >Sonali Gorade</a></h3>
                                                                         <span
                                                                             class="designation te-designation">CEO</span>
                                                                        
@@ -1267,7 +1267,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Sudhir Gorade</a></h3>
+                                                                                >Sudhir Gorade</a></h3>
                                                                         <span
                                                                             class="designation te-designation">CGO</span>
                                                                        
@@ -1289,7 +1289,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Satish Aurange</a></h3>
+                                                                                >Satish Aurange</a></h3>
                                                                         <span
                                                                             class="designation te-designation">CHIEF TECHNOLOGY OFFICER</span>
                                                                        
@@ -1311,7 +1311,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Satish Marwat</a></h3>
+                                                                                >Satish Marwat</a></h3>
                                                                         <span
                                                                             class="designation te-designation">CHIEF OPERATIONS OFFICER</span>
                                                                        
@@ -1333,7 +1333,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Santosh Gagre</a></h3>
+                                                                                >Santosh Gagre</a></h3>
                                                                         <span
                                                                             class="designation te-designation">REGIONAL HEAD</span>
                                                                        
@@ -1355,7 +1355,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Amol Pawar</a></h3>
+                                                                                >Amol Pawar</a></h3>
                                                                         <span
                                                                             class="designation te-designation">L&D HEAD</span>
                                                                        
@@ -1377,7 +1377,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Nilam Bodke</a></h3>
+                                                                                >Nilam Bodke</a></h3>
                                                                         <span
                                                                             class="designation te-designation">Jr. L&D HEAD</span>
                                                                        
@@ -1399,7 +1399,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Prasad Pawar</a></h3>
+                                                                                >Prasad Pawar</a></h3>
                                                                         <span
                                                                             class="designation te-designation">PROJECT MANAGER</span>
                                                                        
@@ -1423,7 +1423,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Ashwini Chaudhary</a></h3>
+                                                                                >Ashwini Chaudhary</a></h3>
                                                                         <span
                                                                             class="designation te-designation">HR EXECUTIVE</span>
                                                                        
@@ -1444,7 +1444,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Swapnali Chaudhary</a></h3>
+                                                                                >Swapnali Chaudhary</a></h3>
                                                                         <span
                                                                             class="designation te-designation">SR. HR MANAGER</span>
                                                                        
@@ -1465,7 +1465,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Chaitali Mali</a></h3>
+                                                                                >Chaitali Mali</a></h3>
                                                                         <span
                                                                             class="designation te-designation">HR EXECUTIVE</span>
                                                                        
@@ -1486,7 +1486,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Asmita P</a></h3>
+                                                                                >Asmita P</a></h3>
                                                                         <span
                                                                             class="designation te-designation">JR. HR EXECUTIVE</span>
                                                                        
@@ -1510,7 +1510,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Pratiksha Karwate</a></h3>
+                                                                                >Pratiksha Karwate</a></h3>
                                                                         <span
                                                                             class="designation te-designation">TEAM LEAD</span>
                                                                        
@@ -1532,7 +1532,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Mahesh Mhaske</a></h3>
+                                                                                >Mahesh Mhaske</a></h3>
                                                                         <span
                                                                             class="designation te-designation">Assistant Project Manager</span>
                                                                        
@@ -1554,7 +1554,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Savita Hajare</a></h3>
+                                                                                >Savita Hajare</a></h3>
                                                                         <span
                                                                             class="designation te-designation"> Team Lead</span>
                                                                        
@@ -1576,7 +1576,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Vivek Patil</a></h3>
+                                                                                >Vivek Patil</a></h3>
                                                                         <span
                                                                             class="designation te-designation"> Associate Team Lead</span>
                                                                        
@@ -1598,7 +1598,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Rupali Patil</a></h3>
+                                                                                >Rupali Patil</a></h3>
                                                                         <span
                                                                             class="designation te-designation">FULL STACK DEVELOPER</span>
                                                                        
@@ -1620,7 +1620,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Vikas Wagh</a></h3>
+                                                                                >Vikas Wagh</a></h3>
                                                                         <span
                                                                             class="designation te-designation">LEARNING HEAD</span>
                                                                        
@@ -1642,7 +1642,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Shubham Kothawade</a></h3>
+                                                                                >Shubham Kothawade</a></h3>
                                                                         <span
                                                                             class="designation te-designation">REACT DEVELOPER</span>
                                                                        
@@ -1663,7 +1663,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Varsha Rajguru</a></h3>
+                                                                                >Varsha Rajguru</a></h3>
                                                                         <span
                                                                             class="designation te-designation">LEARNING HEAD</span>
                                                                        
@@ -1685,7 +1685,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Payal Patil</a></h3>
+                                                                                >Payal Patil</a></h3>
                                                                         <span
                                                                             class="designation te-designation">LEARNING HEAD</span>
                                                                        
@@ -1707,7 +1707,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Pooja Dalvi</a></h3>
+                                                                                >Pooja Dalvi</a></h3>
                                                                         <span
                                                                             class="designation te-designation">LEARNING HEAD</span>
                                                                        
@@ -1728,7 +1728,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Kajal Gurav</a></h3>
+                                                                                >Kajal Gurav</a></h3>
                                                                         <span
                                                                             class="designation te-designation">LEARNING HEAD</span>
                                                                        
@@ -1752,7 +1752,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Vishwambhar Gore</a></h3>
+                                                                                >Vishwambhar Gore</a></h3>
                                                                         <span
                                                                             class="designation te-designation">ANDROID DEVELOPER</span>
                                                                        
@@ -1776,7 +1776,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Mohini Kadam</a></h3>
+                                                                                >Mohini Kadam</a></h3>
                                                                         <span
                                                                             class="designation te-designation">FULL STACK DEVELOPER</span>
                                                                        
@@ -1798,7 +1798,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Pratiksha Murkute</a></h3>
+                                                                                >Pratiksha Murkute</a></h3>
                                                                         <span
                                                                             class="designation te-designation">FULL STACK DEVELOPER</span>
                                                                        
@@ -1820,7 +1820,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Ravindra Kandekar</a></h3>
+                                                                                >Ravindra Kandekar</a></h3>
                                                                         <span
                                                                             class="designation te-designation">SOFTWARE DEVELOPER</span>
                                                                        
@@ -1841,7 +1841,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Yash Ghodke</a></h3>
+                                                                                >Yash Ghodke</a></h3>
                                                                         <span
                                                                             class="designation te-designation">Business Development Executive</span>
                                                                        
@@ -1862,7 +1862,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Dipti Pawar</a></h3>
+                                                                                >Dipti Pawar</a></h3>
                                                                         <span
                                                                             class="designation te-designation">Business Development Manager</span>
                                                                        
@@ -1885,7 +1885,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Vrushali Varpe</a></h3>
+                                                                                >Vrushali Varpe</a></h3>
                                                                         <span
                                                                             class="designation te-designation">BUSINESS DEVELOPMENT</span>
                                                                        
@@ -1907,7 +1907,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Rohini Gaikwad</a></h3>
+                                                                                >Rohini Gaikwad</a></h3>
                                                                         <span
                                                                             class="designation te-designation">Business Analyst</span>
                                                                        
@@ -1929,7 +1929,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Dipali Jagtap</a></h3>
+                                                                                >Dipali Jagtap</a></h3>
                                                                         <span
                                                                             class="designation te-designation">SR. ACCOUNTANT</span>
                                                                        
@@ -1950,7 +1950,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Aarti Pawar</a></h3>
+                                                                                >Aarti Pawar</a></h3>
                                                                         <span
                                                                             class="designation te-designation">JR. ACCOUNTANT</span>
                                                                        
@@ -1972,7 +1972,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Anoop Nanekar</a></h3>
+                                                                                >Anoop Nanekar</a></h3>
                                                                         <span
                                                                             class="designation te-designation"> Associate Product Lead</span>
                                                                        
@@ -1994,7 +1994,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Dhananjay Raut</a></h3>
+                                                                                >Dhananjay Raut</a></h3>
                                                                         <span
                                                                             class="designation te-designation">DIGITAL MARKETING</span>
                                                                        
@@ -2015,7 +2015,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Shweta Jade</a></h3>
+                                                                                >Shweta Jade</a></h3>
                                                                         <span
                                                                             class="designation te-designation">UI/UX DESIGNER</span>
                                                                        
@@ -2036,7 +2036,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Sarangi Mane</a></h3>
+                                                                                >Sarangi Mane</a></h3>
                                                                         <span
                                                                             class="designation te-designation">UI/UX DESIGNER</span>
                                                                        
@@ -2057,7 +2057,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Pradyumna Nagwanshi</a></h3>
+                                                                                >Pradyumna Nagwanshi</a></h3>
                                                                         <span
                                                                             class="designation te-designation">CONTENT WRITER</span>
                                                                        
@@ -2078,7 +2078,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Shivam Shinde</a></h3>
+                                                                                >Shivam Shinde</a></h3>
                                                                         <span
                                                                             class="designation te-designation">TECHNICAL SUPPORT</span>
                                                                        
@@ -2099,7 +2099,7 @@
                                                                     </div>
                                                                     <div class="overlay-content">
                                                                         <h3 class="te-title"><a
-                                                                                href="./bertram-irvin/index.html">Kajal</a></h3>
+                                                                                >Kajal</a></h3>
                                                                         <span
                                                                             class="designation te-designation">SOFTWARE ENGINEER</span>
                                                                        
@@ -5770,6 +5770,151 @@ This training session was specially curated by company CGO, Sudhir Gorade to mak
 </div>
 
 <div class="clearfix"></div>
-
+<!-- <section>
+    <div class="container">
+        <div class="row">
+            <div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1e4d48c elementor-widget elementor-widget-printpark_masonary_projects" data-id="1e4d48c" data-element_type="widget" data-settings="{&quot;mixit_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;mixit_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;mixit_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;project_box_space&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;project_box_space_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;project_box_space_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;project_box_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;project_box_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;project_box_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;btn_padding&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;btn_padding_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true},&quot;btn_padding_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;top&quot;:&quot;&quot;,&quot;right&quot;:&quot;&quot;,&quot;bottom&quot;:&quot;&quot;,&quot;left&quot;:&quot;&quot;,&quot;isLinked&quot;:true}}" data-widget_type="printpark_masonary_projects.default">
+				<div class="elementor-widget-container">
+			            
+                        
+				                
+                <section class="project-section p-0 m-0">
+                    <div class="sortable-masonry">
+                        <div class="filters-box">
+                            <div class="filters">
+                                <ul class="filter-tabs filter-btns clearfix">
+                                    <li class="filter" data-role="button" data-filter=".all">All Categories</li>
+                                                                        <li class="filter" data-role="button" data-filter=".garment-printing">Garment Printing</li>
+                                                                        <li class="filter active" data-role="button" data-filter=".litho_printing">litho_printing</li>
+                                                                        <li class="filter" data-role="button" data-filter=".3d-printing">3D Printing</li>
+                                                                        <li class="filter" data-role="button" data-filter=".large-format-printing">Large Format Printing</li>
+                                                                        <li class="filter" data-role="button" data-filter=".digital-printing">Digital Printing</li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                        <div class="items-container row clearfix" style="position: relative; height: 565.578px;">
+                              
+		       
+			            
+            <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all garment-printing litho_printing  " style="position: absolute; left: 0px; top: 0px;">
+                <div class="project-block-one">
+                    <div class="inner-box bn-project-box">
+                        <figure class="image-box">
+							<img fetchpriority="high" decoding="async" width="370" height="570" src="./wp-content/uploads/2023/08/fun @ sumago/birthday/birthday (1).jpg" class="attachment-printpark_370x570 size-printpark_370x570 wp-post-image" alt="">                        </figure>
+                        <div class="content-box">
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+             
+                       
+                  
+              
+			            
+            <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column 3d-printing large-format-printing  " style="position: absolute; left: 377px; top: 0px; display: none;">
+                <div class="project-block-one">
+                    <div class="inner-box bn-project-box">
+                        <figure class="image-box">
+							<img decoding="async" width="370" height="270" src="https://wp1.themevibrant.com/newwp/printpark/wp-content/uploads/2023/08/project-2.jpg" class="attachment-printpark_370x270 size-printpark_370x270 wp-post-image" alt="">                        </figure>
+                        <div class="content-box">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+             
+                       
+                  
+              
+			            
+            <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column digital-printing garment-printing  " style="position: absolute; left: 377px; top: 0px; display: none;">
+                <div class="project-block-one">
+                    <div class="inner-box bn-project-box">
+                        <figure class="image-box">
+							<img decoding="async" width="370" height="570" src="./wp-content/uploads/2023/08/fun @ sumago/birthday/birthday (2).jpg" class="attachment-printpark_370x570 size-printpark_370x570 wp-post-image" alt="">                        </figure>
+                        <div class="content-box">
+                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+             
+                       
+                  
+              
+			            
+            <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column 3d-printing large-format-printing litho_printing  " style="position: absolute; left: 377px; top: 0px;">
+                <div class="project-block-one">
+                    <div class="inner-box bn-project-box">
+                        <figure class="image-box">
+							<img loading="lazy" decoding="async" width="370" height="570" src="./wp-content/uploads/2023/08/fun @ sumago/birthday/birthday.jpg" alt="">                        </figure>
+                        <div class="content-box">
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+             
+                       
+                  
+              
+			            
+            <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column large-format-printing litho_printing  " style="position: absolute; left: 755px; top: 0px;">
+                <div class="project-block-one">
+                    <div class="inner-box bn-project-box">
+                        <figure class="image-box">
+							<img loading="lazy" decoding="async" width="370" height="270" src="https://wp1.themevibrant.com/newwp/printpark/wp-content/uploads/2023/08/project-4.jpg" class="attachment-printpark_370x270 size-printpark_370x270 wp-post-image" alt="">                        </figure>
+                        <div class="content-box">
+                          
+                        </div>
+                    </div>
+                </div>
+            </div>
+             
+                       
+                  
+                          
+            <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column digital-printing garment-printing  " style="position: absolute; left: 377px; top: 0px; display: none;">
+                <div class="project-block-one">
+                    <div class="inner-box bn-project-box">
+                        <figure class="image-box">
+							<img decoding="async" width="370" height="570" src="./wp-content/uploads/2023/08/fun @ sumago/birthday/birthday (3).jpg" class="attachment-printpark_370x570 size-printpark_370x570 wp-post-image" alt="">                        </figure>
+                        <div class="content-box">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+             
+                       
+                  
+			            
+            <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column 3d-printing digital-printing large-format-printing  " style="position: absolute; left: 755px; top: 565px; display: none;">
+                <div class="project-block-one">
+                    <div class="inner-box bn-project-box">
+                        <figure class="image-box">
+							<img loading="lazy" decoding="async" width="370" height="270" src="https://wp1.themevibrant.com/newwp/printpark/wp-content/uploads/2023/08/project-6.jpg" class="attachment-printpark_370x270 size-printpark_370x270 wp-post-image" alt="">                        </figure>
+                        <div class="content-box">
+                         
+                        </div>
+                    </div>
+                </div>
+            </div>
+             
+                 
+            
+                  
+            </div>
+                    </div>
+                </section>
+                
+  				</div>
+				</div>
+			</div>
+        </div>
+    </div>
+</section> -->
 
 <?php include "footer.php"; ?>

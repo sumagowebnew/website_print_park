@@ -413,7 +413,8 @@
 }
 
 .elementor .elementor-widget:not(.elementor-widget-text-editor):not(.elementor-widget-theme-post-content) figure {
-    margin: 0
+    /* margin: 0; */
+    margin-top: 20px;
 }
 
 .elementor embed,
