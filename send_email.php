@@ -1,11 +1,12 @@
 <?php
-// ini_set("SMTP", "pratikshamurkute31@gmail.com");
-// ini_set("smtp_port", "25"); // Use the appropriate port for your SMTP server
 
 if(isset($_POST["submit"])){
 // Checking For Blank Fields..
 if($_POST["name"]==""||$_POST["email"]==""||$_POST["phone"]==""||$_POST["website"]==""||$_POST["message"]==""){
-echo "Fill All Fields..";
+echo "<script>;";
+echo "alert('Fill All Fields..');";
+echo "</script>;";
+
 }else{
 // Check if the "Sender's Email" input field is filled out
 $email=$_POST['email'];

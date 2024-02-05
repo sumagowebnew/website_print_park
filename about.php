@@ -778,7 +778,7 @@
                             <div class="sec-title">
                                 <div class="te-subtitle"></div>
                                 <div class="te-title"></div>
-                                <p>"We aspire to be the global sourcing choice of the global market and revolutionize the way service processes function. Our goal is to reach out to common people across the globe and make Information Technology a tool for the "Masses", as well as the "Classes". We strive to create innovative IT solutions and provide IT-enabled services to enthrall customers worldwide and build relationships based on Trust, Values, and Professionalism."</p>
+                                <p id="viscont">"We aspire to be the global sourcing choice of the global market and revolutionize the way service processes function. Our goal is to reach out to common people across the globe and make Information Technology a tool for the "Masses", as well as the "Classes". We strive to create innovative IT solutions and provide IT-enabled services to enthrall customers worldwide and build relationships based on Trust, Values, and Professionalism."</p>
                             </div>
 
                         </div>
@@ -1007,7 +1007,7 @@
                             <div class="sec-title">
                                 <div class="te-subtitle"></div>
                                 <div class="te-title"></div>
-                                <p>"At Sumago Infotech, we strive with technology to provide the most effective and affordable services that fulfill our customers' needs and budgets. We provide customized websites and software solutions that suit our customers' company objectives. We always involve our customers in the entire process, starting from design right up to deployment, so that your ideas can be incorporated into our work."</p>
+                                <p id="viscont">"At Sumago Infotech, we strive with technology to provide the most effective and affordable services that fulfill our customers' needs and budgets. We provide customized websites and software solutions that suit our customers' company objectives. We always involve our customers in the entire process, starting from design right up to deployment, so that your ideas can be incorporated into our work."</p>
                             </div>
 
                         </div>

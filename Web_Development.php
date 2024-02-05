@@ -116,7 +116,7 @@ GET A QUOTE
     <div class="modal-content">
     <div class="modal-header">
           <h4 class="modal-title">GET A QUOTE</h4>
-          <button type="button" class="close" data-bs-dismiss="modal">×</button>
+          <button type="button" class="close" data-bs-dismiss="modal">X</button>
         </div>
         <div class="modal-body">
             <form method="post" name="myForm" onsubmit="return quoteRequest();">

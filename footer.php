@@ -91,7 +91,7 @@
                 <div class="col-lg-5 col-md-6 col-sm-12 footer-column">
                     <div id="nav_menu-2" class="footer-widget single-footer-widget widget_nav_menu">
                         <div class="widget-title">
-                            <h3>Service</h3>
+                            <h3>Services</h3>
                         </div>
                         <div class="menu-essentials-menu-container d-flex">
                             <ul id="menu-essentials-menu" class="menu">
@@ -212,20 +212,18 @@
 
 
                 </ul>
-                <ul class="footer-nav clearfix">
+                <!-- <ul class="footer-nav clearfix">
                     <li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94">
                         <a title="About"  data-scroll href="about.php"
                             data-options="easing: easeOutQuart">About</a></li>
                     <li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95">
                         <a title="Contact"  data-scroll href="contact.php"
                             data-options="easing: easeOutQuart">Contact</a></li>
-                    <!--<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96">-->
-                    <!--    <a title="Pricing &#038; Plan"  class="hvr-underline-from-left1"-->
-                    <!--        data-scroll data-options="easing: easeOutQuart">Pricing &#038; Plan</a></li>-->
+                   
                     <li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97">
                         <a title="Team" class="hvr-underline-from-left1" data-scroll href="about.php"
                             data-options="easing: easeOutQuart">Team</a></li>
-                </ul>
+                </ul> -->
             </div>
         </div>
         
@@ -245,11 +243,11 @@
 </div>
 
 
-<script>
+<!-- <script>
 function myFunction() {
   alert("please fill the all fields...!!!");
 }
-</script>
+</script> -->
 
 <script>(function () {
         function maybePrefixUrlField() {

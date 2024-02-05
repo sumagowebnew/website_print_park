@@ -750,7 +750,7 @@
                         </p>
                     </div>
                     <div class="col-sm-12 col-md-5 col-lg-5 d-grid justify-content-center ">
-                        <figure class="logo"><a href="./index.php" title="WordPress Printing"><img style="height: 60px; width:450px" src="./wp-content/uploads/2023/08/SUMAGO Logo (2) (1).png" alt="logo"></a>
+                        <figure class="logo" ><a href="./index.php" title="WordPress Printing"><img  id="sumalogo" src="./wp-content/uploads/2023/08/SUMAGO Logo (2) (1).png" alt="logo"></a>
                     </div>
                      <div class="text2 col-sm-12 col-md-3 col-lg-3">
                         <ul class="info-list">
@@ -1030,15 +1030,15 @@
                 </div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
                 </div>
-                <div class="contact-info">
+                <!-- <div class="contact-info">
                     <h4>Contact Info</h4>
                     <ul>
                         <li>Third Floor, Gajra Chambers, Mumbai - Agra National Hwy, Kamod Nagar, Nashik, Maharashtra 422009</li>
                         <li><a href="tel:+91 8530388815">+91 8530388815</a></li>
                         <li><a href="mailto:info@sumagoinfotech.com">info@sumagoinfotech.com</a></li>
                     </ul>
-                </div>
-                <div class="social-links">
+                </div> -->
+                <!-- <div class="social-links">
                     <ul class="clearfix">
 
                         <li>
@@ -1050,16 +1050,14 @@
                         <li>
                             <a target="_blank" href="https://www.instagram.com/sumago_infotech"><i class="fab  fa-instagram"></i></a>
                         </li>
-                        <!-- <li>
-                            <a target="_blank" href="https://dribbble.com/"><i class="fab  fa-dribbble"></i></a>
-                        </li> -->
+                       
                         <li>
                             <a target="_blank" href="https://www.youtube.com/channel/UCoUCNHO1wXI92HnEmNtIkEg?view_as=subscriber"><i class="fab  fa-youtube"></i></a>
                         </li>
 
 
                     </ul>
-                </div>
+                </div> -->
             </nav>
         </div>
         <!-- End Mobile Menu -->

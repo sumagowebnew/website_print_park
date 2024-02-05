@@ -3788,7 +3788,7 @@ div#mCSB_1_container{
 .news-block-one .inner-box .lower-content h3 a{
   display: inline-block;
   color: #0c0c0c;
-  height: 10rem;
+  height: 7rem;
 }
 
 .news-block-one .inner-box .lower-content h3 a:hover{
@@ -12940,7 +12940,7 @@ div#mCSB_1_container{
 }
 
 .project-details .two-column .content-box p{
-  margin-bottom: 24px;
+  margin-bottom: 2px;
 }
 
 .project-details .two-column .content-box .list-item li{

@@ -555,7 +555,7 @@ Apply Now
   <div class="modal-content">
         <div class="modal-header">
           <h4 class="modal-title">Apply Now</h4>
-          <button type="button" class="close" data-bs-dismiss="modal">×</button>
+          <button type="button" class="close" data-bs-dismiss="modal">X</button>
         </div>
         <div class="modal-body">
             <form method="post" name="myForm" enctype="multipart/form-data" onsubmit="return validate();">
@@ -565,7 +565,7 @@ Apply Now
             </div>
             <div class="form-group">
                 <label>Name :</label>
-                <input class="form-control" type="text" name="$fname" oninput="this.value = this.value.replace(/[^a-zA-Z\s]/g, '').replace(/(\..*)\./g, '$1');" placeholder="Name" required="">
+                <input class="form-control" type="text" name="fname" oninput="this.value = this.value.replace(/[^a-zA-Z\s]/g, '').replace(/(\..*)\./g, '$1');" placeholder="Name" required="">
             </div>
             <div class="form-group">
                 <label>Mobile Number :</label>
@@ -604,11 +604,12 @@ Apply Now
             </div> -->
             
             <div class="form-group text-center">
-                   <input class="btn btn-success btn-lg"  onclick="myFunction()" type="submit" name="btn_submit" value="Submit">
+                   <input class="btn btn-success btn-lg"  type="submit" name="btn_submit" value="Submit">
                     
                     <!-- <input class="btn btn-danger btn-lg" type="reset" name="btn_reset" value="Clear"> -->
             </div>
         </form>
+<h6><?php include "apply_email.php"?></h6>
         
       </div>
 </div>
