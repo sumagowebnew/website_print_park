@@ -543,10 +543,6 @@
                                     </div>
                                 </div>
                             </section>
-
-
-
-
                         </div>
                     </div>
                 </div>
@@ -925,7 +921,7 @@
                                                                 </div>
                                                                 <h3>
                                                                     <a class="ser-title"
-                                                                        href="./service/banners/index.php">Experience</a>
+                                                                        >Experience</a>
                                                                 </h3>
                                                                 <p class="ser-text">With years of experience in the
                                                                     industry, we've successfully delivered countless
@@ -954,7 +950,7 @@
                                                                     style="background-image: url(./wp-content/themes/printpark/assets/images/shape/shape-6.png);">
                                                                 </div>
                                                                 <h3><a class="ser-title"
-                                                                        href="./service/booklets/index.php">Dedicated
+                                                                       >Dedicated
                                                                         <br>
                                                                         Team</a>
                                                                 </h3>
@@ -985,7 +981,7 @@
                                                                     style="background-image: url(./wp-content/themes/printpark/assets/images/shape/shape-6.png);">
                                                                 </div>
                                                                 <h3><a class="ser-title"
-                                                                        href="./service/business-cards/index.php">Client-Centric
+                                                                        >Client-Centric
                                                                         Approach</a></h3>
                                                                 <p class="ser-text">Your satisfaction is our priority.
                                                                     We work closely with you to understand your goals &
@@ -1014,7 +1010,7 @@
                                                                     style="background-image: url(./wp-content/themes/printpark/assets/images/shape/shape-6.png);">
                                                                 </div>
                                                                 <h3><a class="ser-title"
-                                                                        href="./service/calendars/index.php">Affordable
+                                                                       >Affordable
                                                                         Solutions</a>
                                                                 </h3>
                                                                 <p class="ser-text"> Cost-effective solutions without
