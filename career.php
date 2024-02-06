@@ -603,7 +603,7 @@ Apply Now
                 <img src="captcha.php">
             </div> -->
             
-            <div class="form-group text-center">
+            <div class="form-group text-center mt-4">
                    <input class="btn btn-success btn-lg"  type="submit" name="btn_submit" value="Submit">
                     
                     <!-- <input class="btn btn-danger btn-lg" type="reset" name="btn_reset" value="Clear"> -->
@@ -907,9 +907,9 @@ Apply Now
 
                             <section class="testimonial-style-three p-0 m-0">
                                 <div class="sec-title p-0 m-0">
-                                    <h5 class="yt-btn"><a class="printpark-btn" href="">
+                                    <h5 class="yt-btn"><a class="printpark-btn">
                                         
-                                        <!--<i class="flaticon-arrow-right"></i>-->
+                                        <i class="flaticon-arrow-right"></i>
                                         View All Reviews</a></h5>
                                 </div>
                             </section>

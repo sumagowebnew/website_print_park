@@ -1225,7 +1225,7 @@
                                                         </div>
                                                     </div>
                                                     <div
-                                                        class="col-lg-4 col-md-6 col-sm-12 mt-5 service-block te-service-block">
+                                                        class="col-lg-4 col-md-6 col-sm-12 mt-2 service-block te-service-block">
                                                         <div class="service-block-one wow fadeInUp animated"
                                                             data-wow-delay="00ms" data-wow-duration="1500ms">
                                                             <div class="inner-box">
@@ -1255,7 +1255,7 @@
                                                         </div>
                                                     </div>
                                                     <div
-                                                        class="col-lg-4 col-md-6 col-sm-12 mt-5 service-block te-service-block">
+                                                        class="col-lg-4 col-md-6 col-sm-12 mt-2 service-block te-service-block">
                                                         <div class="service-block-one wow fadeInUp animated"
                                                             data-wow-delay="00ms" data-wow-duration="1500ms">
                                                             <div class="inner-box">
@@ -1286,7 +1286,7 @@
                                                         </div>
                                                     </div>
                                                     <div
-                                                        class="col-lg-4 col-md-6 col-sm-12 mt-5 service-block te-service-block">
+                                                        class="col-lg-4 col-md-6 col-sm-12 mt-2 service-block te-service-block">
                                                         <div class="service-block-one wow fadeInUp animated"
                                                             data-wow-delay="00ms" data-wow-duration="1500ms">
                                                             <div class="inner-box">
@@ -1316,7 +1316,7 @@
                                                         </div>
                                                     </div>
                                                     <div
-                                                        class="col-lg-4 col-md-6 col-sm-12 mt-5 service-block te-service-block">
+                                                        class="col-lg-4 col-md-6 col-sm-12 mt-2 service-block te-service-block">
                                                         <div class="service-block-one wow fadeInUp animated"
                                                             data-wow-delay="00ms" data-wow-duration="1500ms">
                                                             <div class="inner-box">
@@ -1346,7 +1346,7 @@
                                                         </div>
                                                     </div>
                                                     <div
-                                                        class="col-lg-4 col-md-6 col-sm-12 mt-5 service-block te-service-block">
+                                                        class="col-lg-4 col-md-6 col-sm-12 mt-2 service-block te-service-block">
                                                         <div class="service-block-one wow fadeInUp animated"
                                                             data-wow-delay="00ms" data-wow-duration="1500ms">
                                                             <div class="inner-box">
@@ -1376,7 +1376,7 @@
                                                         </div>
                                                     </div>
                                                     <div
-                                                        class="col-lg-4 col-md-6 col-sm-12 mt-5 service-block te-service-block">
+                                                        class="col-lg-4 col-md-6 col-sm-12 mt-2 service-block te-service-block">
                                                         <div class="service-block-one wow fadeInUp animated"
                                                             data-wow-delay="00ms" data-wow-duration="1500ms">
                                                             <div class="inner-box">

@@ -3,9 +3,9 @@
 if(isset($_POST["submit"])){
 // Checking For Blank Fields..
 if($_POST["name"]==""||$_POST["email"]==""||$_POST["phone"]==""||$_POST["website"]==""||$_POST["message"]==""){
-echo "<script>;";
+echo "<script>";
 echo "alert('Fill All Fields..');";
-echo "</script>;";
+echo "</script>";
 
 }else{
 // Check if the "Sender's Email" input field is filled out

@@ -2270,7 +2270,7 @@ div#mCSB_1_container{
 
 .funfact-block-one{
   position: relative;
-  padding-bottom: 32px;
+  padding-bottom: 40px;
 }
 
 .funfact-block-one .inner-box{
@@ -4293,7 +4293,7 @@ div#mCSB_1_container{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0px 0px 33px 0px;
+  padding: 0px 0px 10px 0px;
   border-bottom: 1px dashed rgba(255, 255, 255, 0.15);
 }
 

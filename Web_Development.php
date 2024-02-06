@@ -186,7 +186,7 @@ GET A QUOTE
 </div>
 <div>
     <button type="button" class="theme-btn btn-two"  data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-toggle="modal" data-bs-target="#exampleModal">
-GET A QUOTEs
+GET A QUOTE
 </button>
 </div>
 <!-- Modal end-->

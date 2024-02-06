@@ -365,7 +365,7 @@
   }
 
   .main-footer .widget-section{
-    padding-bottom: 64px;
+    padding-bottom: 10px;
   }
 
   .working-block-one .inner-box{
@@ -495,6 +495,12 @@
   .weare-section .image-box{
     margin-left: 0px;
   }
+  .elementor-1802 .elementor-element.elementor-element-abee258>.elementor-element-populated {
+    padding: 0px 0px 0px 0px;
+}
+.elementor-1802 .elementor-element.elementor-element-2d16222>.elementor-element-populated {
+  padding: 0px 0px 0px 0px;
+}
 
   .mission-section .image-box{
     margin-bottom: 40px;
@@ -570,6 +576,9 @@
     display: none;
   }
 
+  #topscrll{
+    display: none;
+  }
   .page-title .auto-container .content-box{
     margin-bottom: 20px;
     }
@@ -577,6 +586,13 @@
     display: none;
   }
 
+  
+.main-footer .social-links li a{
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+ 
+}
   .destopaward{
     display: none;
   }

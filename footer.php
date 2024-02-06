@@ -54,13 +54,13 @@
 
                     </div>
                 </div> -->
-                <div class="col-lg-2 col-md-6 col-sm-12 footer-column">
+                <div class="col-lg-2 col-md-12 col-sm-12 footer-column">
                     <div id="nav_menu-1" class="footer-widget single-footer-widget widget_nav_menu">
                         <div class="widget-title">
                             <h3>Company</h3>
                         </div>
                         <div class="menu-company-menu-container">
-                            <ul id="menu-company-menu" class="menu">
+                            <ul id="menu-company-menu" class="menu p-2">
                                 <li id="menu-item-1270"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1270">
                                     <a href="about.php">
@@ -88,13 +88,13 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-5 col-md-6 col-sm-12 footer-column">
+                <div class="col-lg-5 col-md-12 col-sm-12 footer-column">
                     <div id="nav_menu-2" class="footer-widget single-footer-widget widget_nav_menu">
                         <div class="widget-title">
                             <h3>Services</h3>
                         </div>
-                        <div class="menu-essentials-menu-container d-flex">
-                            <ul id="menu-essentials-menu" class="menu">
+                        <div class="menu-essentials-menu-container d-lg-flex">
+                            <ul id="menu-essentials-menu" class="menu p-2">
                                 <li id="menu-item-1271"
                                     class="menu-item menu-item-type-post_type menu-item-object-service menu-item-1271">
                                     <a href="Web_Development.php">Web Development</a>
@@ -125,7 +125,7 @@
                                 </li>
 
                             </ul>
-                            <ul id="menu-company-menu " class="menu ms-5">
+                            <ul id="menu-company-menu " class="menu p-2">
                                 <!-- <li id="menu-item-1270"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1270">
                                    <a href="Data_Analytics.php">Data Analytics</a>
@@ -154,7 +154,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
+                <div class="col-lg-4 col-md-12 col-sm-12 footer-column">
                     <div id="printpark_promotion-1"
                         class="footer-widget single-footer-widget widget_printpark_promotion">
                         <div class="promotion-widget">
@@ -183,7 +183,7 @@
                 <figure class="footer-logo"><a href="./index.php"><img style="height:40px; width:300px"
                             src="./wp-content/uploads/2023/08/wwww.png" alt="Awesome Image"></a></figure>
                 <div class="copyright">
-                    <p>Copyrights &copy; 2023 <a href="index.php">Sumago.</a>
+                    <p>Copyrights &copy; <?php echo date("Y"); ?> <a href="index.php">Sumago.</a>
                         All Rights
                         Reserved.</p>
                 </div>
@@ -209,6 +209,12 @@
                     <li>
                         <a target="_blank" href="https://www.youtube.com/channel/UCoUCNHO1wXI92HnEmNtIkEg?view_as=subscriber"><i class="fab  fa-youtube"></i></a>
                     </li>
+                    <li>
+                        <!-- scroll to top -->
+                        <button class="scroll-top scroll-to-target" id="topscrll"  data-target="html">
+                            <i class="flaticon-arrow-up"></i>
+                        </button>
+                    </li>
 
 
                 </ul>
@@ -233,10 +239,7 @@
 
 
 
-<!-- scroll to top -->
-<button class="scroll-top scroll-to-target" data-target="html">
-    <i class="flaticon-arrow-up"></i>
-</button>
+
 
 
 

@@ -243,7 +243,7 @@
                                                                                             aria-invalid="false"
                                                                                             placeholder="Phone*"
                                                                                             value="" type="text"
-                                                                                            name="phone"></span>
+                                                                                            name="phone" required></span>
                                                                                 </p>
                                                                             </div>
                                                                             <div
